@@ -1,0 +1,16 @@
+
+You are an expert medical billing auditor. I will provide you with a hospital provider services agreement.
+This contract is written in pure text format with no tables.
+Your task is to extract the pricing schedule and billing rules into a structured JSON format.
+
+Extract the following details:
+1. contract_metadata: provider_name, contract_number, effective_dates (start and end), currency.
+2. services: a list of services where each service has:
+   - service_name: The official name of the service in the contract.
+   - unit_basis: The basis for billing (e.g., per_procedure, per_hour, per_visit, per_diem).
+   - unit_price_cents: The price in cents (integer). If the price in the contract is in major currency (e.g., 150.00), convert it to cents (15000).
+   - conditions: Any special conditions, limits, thresholds, or discounts mentioned for this specific service (leave as an empty string if none).
+
+Return ONLY a valid JSON object. Do not include markdown blocks like ```json ... ```.
+
+Here is the contract:

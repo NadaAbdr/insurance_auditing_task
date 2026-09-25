@@ -1,0 +1,2026 @@
+{
+    "INTENS PALL WD BD OCC /SA-8184": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 30.0
+    },
+    "RTN PHYSIO SESS": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 20.0
+    },
+    "PNL FOC LAB /SA-4377": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 21.74
+    },
+    "PROC OUTPT HAEM BIOPSY /SA-9926": {
+        "mapped_service": "Outpatient Haematology Biopsy Procedure",
+        "confidence_score": 22.95
+    },
+    "SVC - ELECT CARDIAC TRANSP": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 23.33
+    },
+    "PROC ADV GI ENDOSCOPIC /SA-3753": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 21.21
+    },
+    "THER AMBULATORY VASC INF": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 23.33
+    },
+    "ADV  GI ENDOSC PROC": {
+        "mapped_service": "Advanced Gastrointestinal Endoscopic Procedure",
+        "confidence_score": 21.88
+    },
+    "POSTOP CARD SESS": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 20.83
+    },
+    "INTERM OPHTH ADMIN": {
+        "mapped_service": "Intensive Paediatric Infusion Therapy",
+        "confidence_score": 21.82
+    },
+    "POSTOP NEURO REHAB PROG /SA-6939": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 21.54
+    },
+    "EXT DERM ANLY /SA-1680": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 19.23
+    },
+    "OCC STD NEURO ISOL RM": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "ADV  RHEUM ISOL RM OCC /SA-5213": {
+        "mapped_service": "Advanced Rheumatologic Isolation Room Occupancy",
+        "confidence_score": 26.47
+    },
+    "PNL INTERM PSYCH LAB /SA-5413": {
+        "mapped_service": "Intermittent Psychiatric Laboratory Panel",
+        "confidence_score": 22.95
+    },
+    "OCC INPATIENT ORTHO RECOV RM /SA-7665": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 25.0
+    },
+    "REHABILITATION POSTOP NEURO /SA-3507": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 20.0
+    },
+    "EMER HAEM SVC /SA-3156": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 24.39
+    },
+    "PREOPERATIVE ORTHOPAEDIC VENTILATION SUPP /SA-9857": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 18.92
+    },
+    "EXTENDED  DERM SPCM ANLY": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 22.58
+    },
+    "INTERMITTENT OPHTH ANAES ADMIN": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 19.35
+    },
+    "INTENS PALL BD OCCUPANCY": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 22.22
+    },
+    "FOC PALL RECOVERY RM OCC /SA-8419": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "SESS FOC CARD DIAL /SA-1863": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 28.0
+    },
+    "OBST PHYSIO SESS BEDS": {
+        "mapped_service": "Bedside Obstetric Physiotherapy Session",
+        "confidence_score": 23.33
+    },
+    "ORTHO ISOL RM OCC POSTOP": {
+        "mapped_service": "Postoperative Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 24.32
+    },
+    "SUPV METAB LABORATORY PANEL /SA-8571": {
+        "mapped_service": "Supervised Metabolic Laboratory Panel",
+        "confidence_score": 21.88
+    },
+    "SESS CARD DIAL": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 22.64
+    },
+    "POSTOP  ORTHO ISOL OCC": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 24.24
+    },
+    "SVC FOC VASC /SA-2989": {
+        "mapped_service": "Continuous Renal Ventilation Support",
+        "confidence_score": 20.83
+    },
+    "SVC STD PSYCH TRANSF": {
+        "mapped_service": "Standard Psychiatric Transfusion Service",
+        "confidence_score": 23.33
+    },
+    "MONIT STD METAB TELEM": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 23.33
+    },
+    "FOCUSED PULMONARY PHARM DISP": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 20.0
+    },
+    "SPCM ADV DERM /SA-5608": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 23.08
+    },
+    "SESSION  BEDS OBST PHYSIO /SA-5920": {
+        "mapped_service": "Bedside Obstetric Physiotherapy Session",
+        "confidence_score": 22.22
+    },
+    "RTN NEURO IMG INTERP /SA-2009": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 23.08
+    },
+    "INTERM  ORTHO RECOV RM OCC /SA-8516": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.09
+    },
+    "INTERM  OPHTHALMIC ADMIN": {
+        "mapped_service": "Intensive Paediatric Infusion Therapy",
+        "confidence_score": 20.0
+    },
+    "STD - PAED INF THER /SA-9927": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 25.45
+    },
+    "CONT ENT DISCH PLNG /SA-8811": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 19.61
+    },
+    "SUPPORT AMBULATORY HAEM NUTR": {
+        "mapped_service": "Ambulatory Haematology Nutritional Support",
+        "confidence_score": 20.0
+    },
+    "INTERM PSYCH LAB PNL": {
+        "mapped_service": "Intermittent Psychiatric Laboratory Panel",
+        "confidence_score": 22.95
+    },
+    "PREOP OBST HM VST /SA-3879": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 28.0
+    },
+    "STD ISOL RM OCC": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 26.67
+    },
+    "OUTPT HAEM BIOP PROC /SA-1755": {
+        "mapped_service": "Outpatient Haematology Biopsy Procedure",
+        "confidence_score": 23.73
+    },
+    "INTERM CARD SPCM": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 21.82
+    },
+    "OCC INPATIENT OPHTH RECOV /SA-5374": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 22.86
+    },
+    "RTN OPHTH LAB PNL /SA-1969": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 26.92
+    },
+    "ELECT CARD TRANSP SVC /SA-5251": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 25.45
+    },
+    "INTENS NEURO PROG /SA-3375": {
+        "mapped_service": "Preoperative Neurological Isolation Room Occupancy",
+        "confidence_score": 20.9
+    },
+    "STD ORTHO ISOL RM OCC /SA-8236": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "OCC  INPATIENT ORTHO RECOV RM /SA-2313": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 25.0
+    },
+    "PREOP OBSTETRIC HM VISIT": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 24.56
+    },
+    "ASST DIAG IMG /SA-7926": {
+        "mapped_service": "Assisted Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 21.43
+    },
+    "STD  NEURO ISOL RM OCC": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "NEURO  REHAB PROG": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 20.69
+    },
+    "STD NEURO ISOL RM OCCUPANCY /SA-5454": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 25.0
+    },
+    "SUPP  - EXT ENT NUTR": {
+        "mapped_service": "Standard Neurological Isolation Room Occupancy",
+        "confidence_score": 21.54
+    },
+    "EMER PULM VENT": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 21.28
+    },
+    "PREOP CARD ANALYSIS": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 18.87
+    },
+    "RTN GER PHYSIO SESS": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 24.14
+    },
+    "EXT ENT NUTR SUPP /SA-9610": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.41
+    },
+    "INTERP RTN NEURO IMG /SA-3711": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 23.08
+    },
+    "OBSERVATION  CARD NURSING": {
+        "mapped_service": "Continuous Renal Ventilation Support",
+        "confidence_score": 20.0
+    },
+    "BIOPSY ASST GI /SA-6156": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 18.87
+    },
+    "OCCUPANCY SUPV RHEUM CRIT CR /SA-3411": {
+        "mapped_service": "Supervised Rheumatologic Critical Care Occupancy",
+        "confidence_score": 23.68
+    },
+    "OCC INPT OPHTH RECOV RM": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.87
+    },
+    "ADV  GI ENDOSC PROC /SA-3924": {
+        "mapped_service": "Advanced Gastrointestinal Endoscopic Procedure",
+        "confidence_score": 21.88
+    },
+    "PREOP  OBST PHYSIO SESS": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 22.95
+    },
+    "EMER  REN INF THER /SA-7213": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 28.57
+    },
+    "ADV  ENDO CASE CONFERENCE": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 24.14
+    },
+    "STD METAB TELEM MONIT": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 23.33
+    },
+    "OCC PREOP NEUROLOGICAL ISOL RM": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 24.66
+    },
+    "SVC EMER TRANSP": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 20.41
+    },
+    "ADV ENDOSCOPIC PROC /SA-6974": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 18.87
+    },
+    "STD PAED INF THER": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 26.42
+    },
+    "BEDS  OBST PHYSIO SESS": {
+        "mapped_service": "Bedside Obstetric Physiotherapy Session",
+        "confidence_score": 23.33
+    },
+    "SESS RTN GER PHYSIO /SA-5953": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 24.14
+    },
+    "IMG SUPV MSK DIAG": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "INTERM PSYCHIATRIC LAB PNL /SA-4231": {
+        "mapped_service": "Intermittent Psychiatric Laboratory Panel",
+        "confidence_score": 20.9
+    },
+    "OCC INTENS WD BD": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 25.45
+    },
+    "INPT  ORTHO RECOV RM OCC /SA-8297": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.87
+    },
+    "PREOP  ORTHO SUPP /SA-5284": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 20.41
+    },
+    "NEURO IMG INTERP RTN": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 23.08
+    },
+    "SUPV MSK DIAG /SA-7067": {
+        "mapped_service": "Supervised Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 20.69
+    },
+    "EMER  REN THER": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.22
+    },
+    "CONT - REN VENT SUPP": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 25.93
+    },
+    "NEURO ISOL RM OCC PREOP": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.87
+    },
+    "PULM PHARM DISP FOC": {
+        "mapped_service": "Focused Pulmonary Pharmaceutical Dispensing",
+        "confidence_score": 22.58
+    },
+    "POSTOP ORTHO ISOL RM OCC": {
+        "mapped_service": "Postoperative Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 24.32
+    },
+    "BEDS OBST PHYSIOTHERAPY SESSION": {
+        "mapped_service": "Bedside Obstetric Physiotherapy Session",
+        "confidence_score": 20.0
+    },
+    "EMER PAED THTR TIME /SA-3798": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 26.92
+    },
+    "POSTOP CARD PHYSIO SESS /SA-2508": {
+        "mapped_service": "Postoperative Cardiac Physiotherapy Session",
+        "confidence_score": 21.21
+    },
+    "SERVICE - ELECT CARD TRANSP": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 22.95
+    },
+    "EXT  VASC HM VST": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 32.56
+    },
+    "NEURO REHAB PROG INTENS": {
+        "mapped_service": "Preoperative Neurological Isolation Room Occupancy",
+        "confidence_score": 21.92
+    },
+    "PALL RECOV ROOM OCC": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 22.95
+    },
+    "SUPV HEPATIC ENDOSC PROC": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 23.08
+    },
+    "PROGRAMME INTENS NEURO REHAB": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 22.22
+    },
+    "ADVANCED RHEUM ISOL RM /SA-1731": {
+        "mapped_service": "Advanced Rheumatologic Isolation Room Occupancy",
+        "confidence_score": 23.19
+    },
+    "PANEL  RTN OPHTH LAB": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 25.93
+    },
+    "NEURO ISOL RM OCC STD": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "INPT ORTHO RECOV OCC": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 25.0
+    },
+    "SESS PREOP OBST PHYSIO": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 22.95
+    },
+    "PREOPERATIVE  OBST PHYSIO SESSION": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 19.72
+    },
+    "EMER  TRANSP SERVICE /SA-9292": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 19.61
+    },
+    "OCC STD MSK RECOV ROOM": {
+        "mapped_service": "Standard Musculoskeletal Recovery Room Occupancy",
+        "confidence_score": 25.71
+    },
+    "POSTOPERATIVE PAED THTR TM": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 24.14
+    },
+    "STANDARD  - ORTHO ISOL RM OCC": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 25.0
+    },
+    "VASC IMAGING INTERP": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 21.82
+    },
+    "POSTOP PULM INF THER /SA-6470": {
+        "mapped_service": "Postoperative Pulmonary Infusion Therapy",
+        "confidence_score": 23.33
+    },
+    "INPT OPHTH RECOV RM OCC": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.87
+    },
+    "PNL RTN OPHTH LAB": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 26.92
+    },
+    "PULM PHARM DISP BEDS": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 23.08
+    },
+    "STD METAB TELEM MONIT /SA-4721": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 23.33
+    },
+    "HAEM TRANSP SVC EMER": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 25.0
+    },
+    "PNL INTERM PSYCH LAB": {
+        "mapped_service": "Intermittent Psychiatric Laboratory Panel",
+        "confidence_score": 22.95
+    },
+    "ANLY INTERM CARD SPCM /SA-2727": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 23.73
+    },
+    "OCC POSTOP ORTHO ISOLATION RM": {
+        "mapped_service": "Postoperative Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 22.78
+    },
+    "ADV ENDO CS CONF /SA-1948": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 28.0
+    },
+    "SUPPORT  AMB HAEM NUTR": {
+        "mapped_service": "Ambulatory Haematology Nutritional Support",
+        "confidence_score": 22.22
+    },
+    "SPCLST PSYCH STERIL SERVICE": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 22.95
+    },
+    "INTERM ENT REHAB /SA-8030": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.83
+    },
+    "OCC  INPT PAED ISOL RM": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "VASC TRANSP SVC": {
+        "mapped_service": "Continuous Renal Ventilation Support",
+        "confidence_score": 23.53
+    },
+    "ASST MSK DIAG IMG /SA-4432": {
+        "mapped_service": "Assisted Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 23.33
+    },
+    "FOC OPHTH LAB PNL /SA-5900": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 26.92
+    },
+    "PREOP CARDIAC SPCM ANLY /SA-9127": {
+        "mapped_service": "Preoperative Cardiac Specimen Analysis",
+        "confidence_score": 22.95
+    },
+    "EMER  TRANSP SVC /SA-1419": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 20.41
+    },
+    "RTN  INFECT ISOL RM": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 28.0
+    },
+    "ORTHO RECOV RM OCC INTERM": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.09
+    },
+    "PREOP  OBST HOME VST /SA-4776": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 26.92
+    },
+    "INTENS  PAED INF THER": {
+        "mapped_service": "Intensive Paediatric Infusion Therapy",
+        "confidence_score": 24.56
+    },
+    "TM POSTOP PAEDIATRIC /SA-5370": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 22.64
+    },
+    "EXT  DERM SPCM ANLY /SA-4005": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 24.56
+    },
+    "EMER  PULM VENT SUPP /SA-9029": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 24.14
+    },
+    "INTERM ENT REHAB PROG": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "FOC  CARD DIAL SESS /SA-1981": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 28.0
+    },
+    "VST PREOP OBST HM /SA-4486": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 28.0
+    },
+    "SUPV HEP ENDOSCOPIC PROC": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 23.08
+    },
+    "ELECT CARD SVC": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 22.64
+    },
+    "INPATIENT ORTHO RECOV RM OCC /SA-8038": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 25.0
+    },
+    "EMER REN INFUSION THER": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 25.93
+    },
+    "EXT ENT NUTR SUPP": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.41
+    },
+    "MSK DIAG IMG SUPV": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "PNL  RTN OPHTH LABORATORY": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 23.73
+    },
+    "CONF ADV ENDO CS": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 28.0
+    },
+    "ROUTINE LAB PNL /SA-5904": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 20.0
+    },
+    "SUPP EXT ENT NUTR /SA-9016": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.41
+    },
+    "SPCLST PSYCH STERILISATION SVC /SA-1201": {
+        "mapped_service": "Postoperative Vascular Transport Service",
+        "confidence_score": 20.0
+    },
+    "HAEM TRANSP SVC COMPR": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 25.45
+    },
+    "INTENSIVE  INFECT PHYSIO SESS": {
+        "mapped_service": "Intensive Infectious Physiotherapy Session",
+        "confidence_score": 20.0
+    },
+    "FOC  PALL RECOV RM OCC /SA-5934": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 28.57
+    },
+    "SVC  SPCLST PSYCH STERIL": {
+        "mapped_service": "Postoperative Vascular Transport Service",
+        "confidence_score": 22.22
+    },
+    "INTERM  ORTHO RECOVERY RM OCC /SA-8653": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 25.0
+    },
+    "RTN GER SESS": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 19.61
+    },
+    "PHARM FOC PULM": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 21.43
+    },
+    "FOC VASC TRANSFUSION SVC": {
+        "mapped_service": "Focused Vascular Transfusion Service",
+        "confidence_score": 23.33
+    },
+    "RTN  NEUROLOGICAL IMG INTERP": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.34
+    },
+    "ADV  GI PROC": {
+        "mapped_service": "Assisted Gastrointestinal Biopsy Procedure",
+        "confidence_score": 18.87
+    },
+    "POSTOP ANAES ADMIN": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 21.05
+    },
+    "MONIT  STD METAB TELEM /SA-3090": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 23.33
+    },
+    "SPECIALIST PSYCH STERIL SERVICE": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 21.54
+    },
+    "INTERM CARD ANLY": {
+        "mapped_service": "Assisted Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 20.34
+    },
+    "PROCEDURE ASST GI BIOPSY /SA-5378": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 23.53
+    },
+    "EXT  ORTHO RADIOTHER FRACT": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.05
+    },
+    "ROUTINE INFECT RM OCC": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "INTERPRETATION NEURO IMG /SA-5989": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 17.91
+    },
+    "NEURO IMG INTERP SUPV": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 23.33
+    },
+    "ELECT CARD NURS OBS /SA-1894": {
+        "mapped_service": "Elective Cardiac Nursing Observation",
+        "confidence_score": 25.45
+    },
+    "ELECT TRANSP SVC": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 20.0
+    },
+    "CONT OTOLARYNGOLOGIC DISCH PLNG /SA-3899": {
+        "mapped_service": "Continuous Otolaryngologic Discharge Planning",
+        "confidence_score": 18.42
+    },
+    "PNL FOCUSED OPHTH LAB /SA-2998": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 25.0
+    },
+    "OCC  INPT PAED ISOLATION ROOM": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 24.66
+    },
+    "EMER PULMONARY VENT SUPP /SA-3137": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 22.22
+    },
+    "SVC ELECT CARD TRANSP": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 25.45
+    },
+    "ASST DIAG IMAGING": {
+        "mapped_service": "Assisted Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 20.0
+    },
+    "ANLY INTERM CARD SPCM": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 23.73
+    },
+    "ADMIN POSTOP OPHTH ANAES": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 21.05
+    },
+    "STD MSK RECOV RM /SA-7054": {
+        "mapped_service": "Supervised Rheumatologic Critical Care Occupancy",
+        "confidence_score": 21.88
+    },
+    "SUPERVISED BIOPSY PROC": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 20.9
+    },
+    "IMAGING ASST MSK DIAG /SA-2758": {
+        "mapped_service": "Assisted Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 21.88
+    },
+    "PREOP OBSTETRIC HM VST": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 25.45
+    },
+    "SUPV  IMG INTERP": {
+        "mapped_service": "Intensive Infectious Physiotherapy Session",
+        "confidence_score": 21.05
+    },
+    "OCC STD NEURO ISOL": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 22.22
+    },
+    "CARD SPCM ANLY PREOP": {
+        "mapped_service": "Preoperative Cardiac Specimen Analysis",
+        "confidence_score": 24.14
+    },
+    "SVC FOCUSED VASC TRANSFUSION /SA-5676": {
+        "mapped_service": "Focused Vascular Transfusion Service",
+        "confidence_score": 21.88
+    },
+    "THER  INTENS PAED INF": {
+        "mapped_service": "Intensive Paediatric Infusion Therapy",
+        "confidence_score": 24.56
+    },
+    "SUPV RHEUM CRIT CR OCC": {
+        "mapped_service": "Supervised Rheumatologic Critical Care Occupancy",
+        "confidence_score": 25.71
+    },
+    "INPT OPHTH RECOV ROOM OCC": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.09
+    },
+    "FOC  PALL RECOV ROOM OCCUPANCY /SA-9540": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 25.35
+    },
+    "MSK DIAG IMG ASST": {
+        "mapped_service": "Assisted Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 23.33
+    },
+    "ASST BIOP PROC": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 20.69
+    },
+    "POSTOPERATIVE OPHTH ANAES ADMIN": {
+        "mapped_service": "Preoperative Neurological Isolation Room Occupancy",
+        "confidence_score": 19.75
+    },
+    "OCC ADV INFECT ISOL /SA-7328": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 22.22
+    },
+    "EMER PAED THTR TM /SA-9377": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 28.0
+    },
+    "PREOPERATIVE  OBST SESS /SA-3810": {
+        "mapped_service": "Bedside Obstetric Physiotherapy Session",
+        "confidence_score": 19.67
+    },
+    "ADV DERM SPCM ANALYSIS /SA-4468": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 22.95
+    },
+    "ORTHOPAEDIC ISOL RM OCC": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 24.14
+    },
+    "OUTPT HAEM BIOPSY PROC": {
+        "mapped_service": "Outpatient Haematology Biopsy Procedure",
+        "confidence_score": 22.95
+    },
+    "OPHTH LAB PNL": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 20.83
+    },
+    "RTN  INFECT ISOL RM OCC /SA-1394": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 27.69
+    },
+    "FRACT BEDS RADIOTHER /SA-5851": {
+        "mapped_service": "Bedside Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 20.0
+    },
+    "AMB HAEM NUTR SUPP": {
+        "mapped_service": "Ambulatory Haematology Nutritional Support",
+        "confidence_score": 23.33
+    },
+    "PROC OUTPT HAEM BIOP": {
+        "mapped_service": "Outpatient Haematology Biopsy Procedure",
+        "confidence_score": 23.73
+    },
+    "OCC STD ORTHO ISOL RM": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "POSTOP OPHTH ANAESTHESIA /SA-4633": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 21.05
+    },
+    "SUPV RHEUMATOLOGIC CRIT CR OCC": {
+        "mapped_service": "Supervised Rheumatologic Critical Care Occupancy",
+        "confidence_score": 23.08
+    },
+    "OCC POSTOP ORTHO ISOL ROOM": {
+        "mapped_service": "Postoperative Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 23.68
+    },
+    "CONF ADV ENDO CASE": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 26.92
+    },
+    "ANLY PREOP CARD SPCM": {
+        "mapped_service": "Preoperative Cardiac Specimen Analysis",
+        "confidence_score": 24.14
+    },
+    "ADV DERM SPCM ANLY /SA-9302": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 24.56
+    },
+    "ANALYSIS CARD SPCM": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 21.05
+    },
+    "OPHTH LAB PNL RTN": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 26.92
+    },
+    "INTERPRETATION  ROUTINE NEURO": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.0
+    },
+    "POSTOP PULM INF THER /SA-9058": {
+        "mapped_service": "Postoperative Pulmonary Infusion Therapy",
+        "confidence_score": 23.33
+    },
+    "DERM SPCM ANLY EXT": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 24.56
+    },
+    "PSYCH TRANSF SVC": {
+        "mapped_service": "Standard Psychiatric Transfusion Service",
+        "confidence_score": 21.43
+    },
+    "ADV RHEUM RM OCC": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 24.0
+    },
+    "PAED THTR TM EMER": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 28.0
+    },
+    "POSTOP NEURO PROG /SA-1044": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 20.0
+    },
+    "AMB VASC INF THER": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 26.42
+    },
+    "INTERP  SUPERVISED IMG /SA-6042": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 20.0
+    },
+    "INTENS PALLIATIVE WD BD OCC": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 27.27
+    },
+    "INTENSIVE INFECT PHYSIO SESS /SA-6814": {
+        "mapped_service": "Intensive Infectious Physiotherapy Session",
+        "confidence_score": 20.0
+    },
+    "DISP BEDS PULMONARY PHARM": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.05
+    },
+    "SERVICE FOC VASC TRANSFUSION /SA-8463": {
+        "mapped_service": "Continuous Renal Ventilation Support",
+        "confidence_score": 21.88
+    },
+    "POSTOP INF THER": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 23.53
+    },
+    "COMPR HAEM TRANSP SERVICE /SA-1740": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 23.73
+    },
+    "BEDS PULMONARY PHARM DISP": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.05
+    },
+    "CONT REN VENT SUPPORT": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 25.45
+    },
+    "FOC  PULM PHARM DISP /SA-2738": {
+        "mapped_service": "Focused Pulmonary Pharmaceutical Dispensing",
+        "confidence_score": 22.58
+    },
+    "PROG INTERM OTOLARYNGOLOGIC REHAB": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 20.78
+    },
+    "EXT ORTHOPAEDIC RADIOTHER FRACT /SA-4235": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 19.18
+    },
+    "ORTHO ISOL RM OCC STD": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "OCC  INPT PAED ISOL RM /SA-6138": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "SUPV HAEM BIOP PROC /SA-9038": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 24.14
+    },
+    "MSK  DIAG IMG": {
+        "mapped_service": "Supervised Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 21.05
+    },
+    "POSTOP  CARD PHYSIO": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 20.0
+    },
+    "OPHTH ANAES ADMIN INTERM": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.43
+    },
+    "STD ORTHO ISOL ROOM OCCUPANCY /SA-3231": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 24.32
+    },
+    "FRACTION BEDS OPHTH RADIOTHER /SA-7880": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 20.59
+    },
+    "OPHTH LAB PNL FOC": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 26.92
+    },
+    "INTERM  PSYCH LAB PANEL /SA-3427": {
+        "mapped_service": "Intermittent Psychiatric Laboratory Panel",
+        "confidence_score": 22.22
+    },
+    "STD PSYCHIATRIC TRANSF SVC": {
+        "mapped_service": "Standard Psychiatric Transfusion Service",
+        "confidence_score": 21.21
+    },
+    "HAEM BIOP PROC SUPV": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 24.14
+    },
+    "AMB VASC INF THER /SA-1352": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 26.42
+    },
+    "NEUROLOGICAL REHAB PROG /SA-9661": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 20.69
+    },
+    "CARDIAC  TRANSP SERVICE": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 20.0
+    },
+    "INTERMITTENT OPHTH ANAESTHESIA ADMIN": {
+        "mapped_service": "Assisted Infectious Telemetry Monitoring",
+        "confidence_score": 18.42
+    },
+    "ANLY ADV DERM SPCM /SA-1886": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 24.56
+    },
+    "POSTOP ORTHO ISOLATION RM OCC": {
+        "mapped_service": "Postoperative Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 22.78
+    },
+    "SVC STD PSYCH TRANSF /SA-3868": {
+        "mapped_service": "Standard Psychiatric Transfusion Service",
+        "confidence_score": 23.33
+    },
+    "SUPV HAEM BIOP PROC /SA-6547": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 24.14
+    },
+    "DIAG SUPERVISED MSK": {
+        "mapped_service": "Supervised Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 18.75
+    },
+    "SUPP PREOP ORTHO VENT": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 25.93
+    },
+    "STD RECOV RM OCC": {
+        "mapped_service": "Supervised Rheumatologic Critical Care Occupancy",
+        "confidence_score": 25.0
+    },
+    "PROCEDURE ASST GI BIOP": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 24.24
+    },
+    "SVC COMPR HAEM TRANSP /SA-1408": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 25.45
+    },
+    "BEDS OPHTH RADIOTHER FRACT /SA-1831": {
+        "mapped_service": "Bedside Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 21.21
+    },
+    "EMER THTR TM /SA-2118": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.73
+    },
+    "FOC  PULM PHARM DISP": {
+        "mapped_service": "Focused Pulmonary Pharmaceutical Dispensing",
+        "confidence_score": 22.58
+    },
+    "CONF  COMPR ENT CS": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 23.53
+    },
+    "OPHTH - ANAESTHESIA ADMIN /SA-3643": {
+        "mapped_service": "Intensive Paediatric Infusion Therapy",
+        "confidence_score": 19.35
+    },
+    "HAEM BIOP PROC OUTPT": {
+        "mapped_service": "Outpatient Haematology Biopsy Procedure",
+        "confidence_score": 23.73
+    },
+    "DISP FOC PHARM": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 20.41
+    },
+    "ADVANCED INFECT RM OCC": {
+        "mapped_service": "Extended Orthopaedic Radiotherapy Fraction",
+        "confidence_score": 21.88
+    },
+    "COMPR ENT CASE CONF": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 26.42
+    },
+    "ORTHO RECOV RM OCC INPT": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.87
+    },
+    "SUPP EMER PULM VENTILATION /SA-8204": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 21.54
+    },
+    "SVC POSTOP VASC TRANSP /SA-7367": {
+        "mapped_service": "Postoperative Vascular Transport Service",
+        "confidence_score": 22.58
+    },
+    "PREOP ORTHO VENTILATION SUPP /SA-6583": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 22.95
+    },
+    "INPATIENT OPHTH RECOV RM": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 23.88
+    },
+    "RTN INFECT ISOL RM OCC /SA-6375": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 27.69
+    },
+    "INTENS NEURO REHAB PROG": {
+        "mapped_service": "Preoperative Neurological Isolation Room Occupancy",
+        "confidence_score": 21.92
+    },
+    "PREOP VASC INTERP /SA-3692": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 20.0
+    },
+    "INTERP  RTN NEURO IMG": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 23.08
+    },
+    "OCC  ADV RHEUM ISOL": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 23.08
+    },
+    "PHYSIOTHERAPY  BEDS OBST": {
+        "mapped_service": "Bedside Obstetric Physiotherapy Session",
+        "confidence_score": 19.35
+    },
+    "SPCLST STERILISATION SVC": {
+        "mapped_service": "Continuous Renal Ventilation Support",
+        "confidence_score": 20.0
+    },
+    "TM  POSTOP PAED THTR": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 26.92
+    },
+    "IMG ASST DIAG": {
+        "mapped_service": "Assisted Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 21.43
+    },
+    "SESS RTN GER PHYSIO /SA-7008": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 24.14
+    },
+    "POSTOP  OPHTH ANAES ADMINISTRATION /SA-5379": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 18.18
+    },
+    "BEDS PULM DISP /SA-7949": {
+        "mapped_service": "Bedside Pulmonary Pharmaceutical Dispensing",
+        "confidence_score": 21.05
+    },
+    "SUPP  AMB HAEM NUTR /SA-4369": {
+        "mapped_service": "Ambulatory Haematology Nutritional Support",
+        "confidence_score": 23.33
+    },
+    "POSTOP PULM INFUSION THER": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 22.86
+    },
+    "ENDO  CS CONF": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 21.74
+    },
+    "FOC  OPHTH LAB PNL /SA-9997": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 26.92
+    },
+    "EXT  VASC HOME": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 24.39
+    },
+    "FOC - CARD DIAL SESS": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 26.92
+    },
+    "INTENS INFECT PHYSIO SESS": {
+        "mapped_service": "Intensive Infectious Physiotherapy Session",
+        "confidence_score": 20.9
+    },
+    "INTERMITTENT PSYCH LAB PNL /SA-4633": {
+        "mapped_service": "Intermittent Psychiatric Laboratory Panel",
+        "confidence_score": 20.9
+    },
+    "BEDSIDE OPHTH RADIOTHER FRACT /SA-4563": {
+        "mapped_service": "Bedside Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 20.29
+    },
+    "SUPERVISED HAEM BIOP PROCEDURE": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 20.29
+    },
+    "POSTOP  VASC TRANSP SVC": {
+        "mapped_service": "Postoperative Vascular Transport Service",
+        "confidence_score": 22.58
+    },
+    "STD  MSK RECOV RM OCC": {
+        "mapped_service": "Standard Musculoskeletal Recovery Room Occupancy",
+        "confidence_score": 26.47
+    },
+    "ASST INFECT MONIT /SA-6965": {
+        "mapped_service": "Assisted Infectious Telemetry Monitoring",
+        "confidence_score": 21.05
+    },
+    "FRACT  BEDS OPHTH RADIOTHER /SA-8930": {
+        "mapped_service": "Bedside Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 21.21
+    },
+    "OTOLARYNGOLOGIC  DISCH PLNG /SA-6235": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 17.14
+    },
+    "POSTOP VASC TRANSP SERVICE": {
+        "mapped_service": "Postoperative Vascular Transport Service",
+        "confidence_score": 21.21
+    },
+    "INTENS  PALL WD BD /SA-1182": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 25.0
+    },
+    "INTERM ORTHO RECOV RM OCC": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.09
+    },
+    "EXTENDED ENT NUTR": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 20.0
+    },
+    "DISP FOC PULM PHARM /SA-1272": {
+        "mapped_service": "Focused Pulmonary Pharmaceutical Dispensing",
+        "confidence_score": 22.58
+    },
+    "INTERM OPHTH ANAES ADMIN": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.43
+    },
+    "CONT ENT DISCH PLNG": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 19.61
+    },
+    "EXT ORTHO RADIOTHERAPY FRACT": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.0
+    },
+    "EXTENDED VASC VST /SA-2084": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 22.22
+    },
+    "ASST - INFECT TELEM MONIT": {
+        "mapped_service": "Assisted Infectious Telemetry Monitoring",
+        "confidence_score": 21.54
+    },
+    "AMB NUTRITIONAL SUPP /SA-7761": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 20.34
+    },
+    "SESS PREOP PHYSIO": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 20.0
+    },
+    "ENT REHAB PROG INTENS": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "ADMIN OPHTH ANAES /SA-6486": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 19.61
+    },
+    "ENT REHAB PROG": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 17.86
+    },
+    "PULM PHARM DISP /SA-2727": {
+        "mapped_service": "Postoperative Pulmonary Infusion Therapy",
+        "confidence_score": 18.18
+    },
+    "SUPP - CONT REN VENT": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 25.93
+    },
+    "EMER PULM VENT SUPP /SA-6819": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 24.14
+    },
+    "INTENS - NEURO REHABILITATION PROG /SA-8220": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 20.78
+    },
+    "OCC STD RECOV RM": {
+        "mapped_service": "Supervised Rheumatologic Critical Care Occupancy",
+        "confidence_score": 25.0
+    },
+    "POSTOP  PULMONARY INF THER": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 23.88
+    },
+    "OCC INPT PAED ISOL RM /SA-7229": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "EMER REN INF THER /SA-8878": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 28.57
+    },
+    "INFECT ISOL RM OCC RTN": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 27.69
+    },
+    "AMBULATORY VASC INF THERAPY": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 22.22
+    },
+    "PREOP  VASC INTERP": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 20.0
+    },
+    "SUPPORT CONTINUOUS REN VENT": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 22.95
+    },
+    "NEURO REHAB PROG POSTOP": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 21.54
+    },
+    "IMG - SUPV MSK DIAG /SA-2439": {
+        "mapped_service": "Supervised Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 21.88
+    },
+    "INPT OPHTH RECOV OCCUPANCY /SA-8706": {
+        "mapped_service": "Postoperative Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 21.05
+    },
+    "PAED THTR TM POSTOP": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 26.92
+    },
+    "HAEM BIOP PROC /SA-6522": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 18.87
+    },
+    "ANLY PREOPERATIVE CARD SPECIMEN": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 20.29
+    },
+    "INTERM ORTHO RECOV OCC": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 24.24
+    },
+    "SUPV METAB LABORATORY PNL /SA-3629": {
+        "mapped_service": "Supervised Metabolic Laboratory Panel",
+        "confidence_score": 22.58
+    },
+    "FOC  VASC TRANSF SVC": {
+        "mapped_service": "Focused Vascular Transfusion Service",
+        "confidence_score": 25.45
+    },
+    "ENT CS CONF /SA-6459": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 22.22
+    },
+    "PROC  - SUPV HEP": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 25.0
+    },
+    "VST VASCULAR HM /SA-8814": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 23.26
+    },
+    "OUTPT HAEMATOLOGY BIOP PROC /SA-7396": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 21.21
+    },
+    "STD - ORTHO ISOL RM OCC /SA-1562": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 26.47
+    },
+    "SVC STD PSYCH TRANSF /SA-9672": {
+        "mapped_service": "Standard Psychiatric Transfusion Service",
+        "confidence_score": 23.33
+    },
+    "ELECT - CARD NURSING OBS": {
+        "mapped_service": "Elective Cardiac Nursing Observation",
+        "confidence_score": 23.33
+    },
+    "CS  ADV ENDO /SA-1786": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 22.22
+    },
+    "CONT - OTOLARYNGOLOGIC DISCH PLNG": {
+        "mapped_service": "Continuous Otolaryngologic Discharge Planning",
+        "confidence_score": 17.95
+    },
+    "ENT CS CONF /SA-5963": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 22.22
+    },
+    "SUPV - NEURO IMG": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 21.82
+    },
+    "OCC PREOP ISOL RM": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 26.92
+    },
+    "ENT REHAB PROG INTERM": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "OPHTH ANAES ADMIN POSTOP": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 21.05
+    },
+    "PULM INF THER /SA-9868": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 20.41
+    },
+    "ASST - INFECT TELEM": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 19.23
+    },
+    "THER  STD PAED INF": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 26.42
+    },
+    "SESS INTENS INFECT PHYSIO /SA-4043": {
+        "mapped_service": "Intensive Infectious Physiotherapy Session",
+        "confidence_score": 20.9
+    },
+    "LAB SUPV METAB": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 20.0
+    },
+    "PREOP CARD SPCM ANLY": {
+        "mapped_service": "Preoperative Cardiac Specimen Analysis",
+        "confidence_score": 24.14
+    },
+    "INTENS  ENT REHAB PROG": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "INTENS INFECTIOUS PHYSIO SESS /SA-3027": {
+        "mapped_service": "Intensive Infectious Physiotherapy Session",
+        "confidence_score": 19.72
+    },
+    "ANLY ADV DERM SPCM /SA-3043": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 24.56
+    },
+    "INTERM - MSK DIAL SESSION /SA-9704": {
+        "mapped_service": "Supervised Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 20.0
+    },
+    "OCC INTENS PALL WD BD": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 30.0
+    },
+    "SUPV HAEM BIOP PROC": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 24.14
+    },
+    "POSTOP PAED THTR TM": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 26.92
+    },
+    "OCC INTERM ORTHOPAEDIC RECOV RM /SA-4391": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 24.0
+    },
+    "CONT  REN SUPP": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 21.28
+    },
+    "INTERM - OPHTH ANAES ADMIN /SA-3116": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.69
+    },
+    "INTENS  ENT REHABILITATION PROG /SA-2959": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.58
+    },
+    "FOC CARDIAC DIAL SESS /SA-9422": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 26.42
+    },
+    "THER STD PAED INFUSION": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 24.14
+    },
+    "EXTENDED - HM VST": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 22.22
+    },
+    "INTENSIVE  PAED INF THER": {
+        "mapped_service": "Intensive Paediatric Infusion Therapy",
+        "confidence_score": 23.33
+    },
+    "POSTOP VASC TRANSP SVC /SA-5049": {
+        "mapped_service": "Postoperative Vascular Transport Service",
+        "confidence_score": 22.58
+    },
+    "FRACT  BEDSIDE OPHTH RADIOTHER": {
+        "mapped_service": "Bedside Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 20.29
+    },
+    "CARD SPCM ANLY INTERM": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 23.73
+    },
+    "SVC FOC VASC TRANSF /SA-8656": {
+        "mapped_service": "Focused Vascular Transfusion Service",
+        "confidence_score": 25.45
+    },
+    "SUPV MSK DIAG IMG": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "INFECT ISOL RM OCC ADV": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "INTENS  - PALLIATIVE WD BD OCC /SA-6765": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 26.47
+    },
+    "COMPR HAEM TRANSPORT SVC": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 24.14
+    },
+    "BEDS PHARM DISP": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.28
+    },
+    "STD - TELEM MONIT /SA-8775": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 21.43
+    },
+    "PREOP VASC IMG INTERP": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 23.33
+    },
+    "INPT ISOL RM OCC": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 23.73
+    },
+    "SPCLST HEP NUTR SUPP": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 22.64
+    },
+    "SESS  INTENS INFECT PHYSIO": {
+        "mapped_service": "Intensive Infectious Physiotherapy Session",
+        "confidence_score": 20.9
+    },
+    "PAEDIATRIC  INF THER": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 19.67
+    },
+    "AMB VASC INFUSION THER": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 24.14
+    },
+    "TRANSP EMERGENCY HAEM /SA-4837": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 18.18
+    },
+    "SUPP AMB HAEM NUTR": {
+        "mapped_service": "Ambulatory Haematology Nutritional Support",
+        "confidence_score": 23.33
+    },
+    "SUPERVISED NEUROLOGICAL IMG INTERP /SA-6293": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 20.25
+    },
+    "DISP - BEDS PULM PHARM": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.22
+    },
+    "COMPR  HAEM SVC /SA-2722": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 20.83
+    },
+    "POSTOP VASCULAR TRANSPORT SVC": {
+        "mapped_service": "Postoperative Vascular Transport Service",
+        "confidence_score": 20.29
+    },
+    "OCC  - FOC PALL RECOV ROOM": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 26.87
+    },
+    "BEDS OBSTETRIC PHYSIO SESS /SA-6964": {
+        "mapped_service": "Bedside Obstetric Physiotherapy Session",
+        "confidence_score": 21.54
+    },
+    "SUPV  HEP ENDOSC PROC": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 25.0
+    },
+    "OCC STD NEUROLOGICAL ISOL ROOM /SA-6421": {
+        "mapped_service": "Standard Orthopaedic Isolation Room Occupancy",
+        "confidence_score": 24.0
+    },
+    "DERM SPCM ANLY ADV": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 24.56
+    },
+    "OCC - PREOPERATIVE NEURO ISOL RM": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 23.68
+    },
+    "PAED INF THER STD": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 26.42
+    },
+    "THER AMB VASC": {
+        "mapped_service": "Ambulatory Vascular Infusion Therapy",
+        "confidence_score": 20.41
+    },
+    "INTERPRETATION SUPERVISED NEURO IMG": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 20.51
+    },
+    "POSTOP THTR TM": {
+        "mapped_service": "Postoperative Paediatric Theatre Time",
+        "confidence_score": 23.53
+    },
+    "COMPREHENSIVE  HAEM TRANSP SVC /SA-3116": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 22.22
+    },
+    "PREOP - ORTHO VENT SUPP": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 25.0
+    },
+    "SESS ROUTINE GERIATRIC PHYSIO /SA-3246": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 20.59
+    },
+    "EXT VASC VST": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 25.0
+    },
+    "COMPR  HAEM TRANSP SVC": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 25.45
+    },
+    "PREOP NEURO ISOL RM OCC": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 26.87
+    },
+    "RTN OPHTHALMIC LAB PNL": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 24.56
+    },
+    "POSTOP - NEURO PROG /SA-8363": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 22.22
+    },
+    "SESSION POSTOP CARD PHYSIO": {
+        "mapped_service": "Postoperative Cardiac Physiotherapy Session",
+        "confidence_score": 20.29
+    },
+    "INTERM  REHAB PROG": {
+        "mapped_service": "Standard Neurological Isolation Room Occupancy",
+        "confidence_score": 19.05
+    },
+    "EMER HAEM TRANSP SVC /SA-2115": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 25.0
+    },
+    "ASST INFECT TELEM MONIT /SA-9090": {
+        "mapped_service": "Assisted Infectious Telemetry Monitoring",
+        "confidence_score": 22.22
+    },
+    "SUPV METAB LAB PNL /SA-3376": {
+        "mapped_service": "Supervised Metabolic Laboratory Panel",
+        "confidence_score": 25.45
+    },
+    "SESS FOC CARD DIAL": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 28.0
+    },
+    "SUPERVISED  METAB LAB PANEL /SA-4441": {
+        "mapped_service": "Supervised Metabolic Laboratory Panel",
+        "confidence_score": 22.22
+    },
+    "SUPV RHEUM CRIT CR OCC /SA-8848": {
+        "mapped_service": "Supervised Rheumatologic Critical Care Occupancy",
+        "confidence_score": 25.71
+    },
+    "ADV INFECT ISOL RM OCC": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "DIAGNOSTIC SUPV MSK /SA-5988": {
+        "mapped_service": "Supervised Musculoskeletal Diagnostic Imaging",
+        "confidence_score": 18.75
+    },
+    "ELECT CARD NURS OBS /SA-5886": {
+        "mapped_service": "Elective Cardiac Nursing Observation",
+        "confidence_score": 25.45
+    },
+    "PREOP SPCM ANLY /SA-5067": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 20.0
+    },
+    "FOC  PULM PHARM DISP /SA-8680": {
+        "mapped_service": "Focused Pulmonary Pharmaceutical Dispensing",
+        "confidence_score": 22.58
+    },
+    "RTN  INFECT RM OCC /SA-3020": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 24.49
+    },
+    "PROG INTENS NEURO REHAB": {
+        "mapped_service": "Preoperative Neurological Isolation Room Occupancy",
+        "confidence_score": 21.92
+    },
+    "COMPR ENT CS CONF": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 23.53
+    },
+    "PAED INF THER INTENS": {
+        "mapped_service": "Intensive Paediatric Infusion Therapy",
+        "confidence_score": 24.56
+    },
+    "EMERGENCY PAED THTR TM /SA-2205": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 25.45
+    },
+    "POSTOP - NEURO REHAB PROG": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 23.88
+    },
+    "ADV RHEUM ISOL RM OCCUPANCY": {
+        "mapped_service": "Advanced Rheumatologic Isolation Room Occupancy",
+        "confidence_score": 24.32
+    },
+    "STD  - TELEM MONIT": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 21.43
+    },
+    "INTERP  SUPV NEURO IMG /SA-3334": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 23.33
+    },
+    "ADV - INFECT ISOL RM OCC /SA-7043": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 26.47
+    },
+    "FOC  OPHTH LABORATORY PNL /SA-6975": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 23.73
+    },
+    "ADV RHEUM ISOLATION OCC": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 23.88
+    },
+    "ANLY ADV DERMATOLOGIC SPECIMEN /SA-3586": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 20.29
+    },
+    "PREOP - ORTHO VENT SUPP /SA-6661": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 25.0
+    },
+    "REHABILITATION INTERM ENT": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.05
+    },
+    "FRACT EXT ORTHO RADIOTHER": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.05
+    },
+    "POSTOP  CARD PHYSIO SESS /SA-4818": {
+        "mapped_service": "Postoperative Cardiac Physiotherapy Session",
+        "confidence_score": 21.21
+    },
+    "THER  STANDARD INF": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 20.41
+    },
+    "SUPP EMER PULM VENT": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 24.14
+    },
+    "IMG PREOP VASC": {
+        "mapped_service": "Routine Geriatric Physiotherapy Session",
+        "confidence_score": 22.64
+    },
+    "SUPP  AMB HAEMATOLOGY": {
+        "mapped_service": "Outpatient Haematology Biopsy Procedure",
+        "confidence_score": 20.34
+    },
+    "PROG  INTENS ENT REHAB": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 22.64
+    },
+    "INPT PAED ISOL ROOM OCC": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 26.47
+    },
+    "FOCUSED OPHTH LAB PNL /SA-1953": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 25.0
+    },
+    "PROC ASST GASTROINTESTINAL": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 17.14
+    },
+    "SVC FOC VASC TRANSF /SA-2946": {
+        "mapped_service": "Focused Vascular Transfusion Service",
+        "confidence_score": 25.45
+    },
+    "PREOPERATIVE OBST HM VST": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 24.56
+    },
+    "ANALYSIS EXT DERM SPCM": {
+        "mapped_service": "Extended Dermatologic Specimen Analysis",
+        "confidence_score": 22.95
+    },
+    "PROC HEP ENDOSC": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 20.0
+    },
+    "INTERM - CARD SPCM ANLY": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 22.95
+    },
+    "ELECT  CARD NURS OBSERVATION /SA-6459": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 22.95
+    },
+    "THER  - STD PAEDIATRIC INF /SA-9454": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 22.95
+    },
+    "MSK RECOVERY RM OCC": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 22.22
+    },
+    "INTENS PAED INF THER /SA-4770": {
+        "mapped_service": "Intensive Paediatric Infusion Therapy",
+        "confidence_score": 24.56
+    },
+    "SUPV HEP ENDOSC": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 23.26
+    },
+    "PREOP OBST PHYSIO SESS /SA-6179": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 22.95
+    },
+    "OCC SUPV RHEUM CRIT CR": {
+        "mapped_service": "Supervised Rheumatologic Critical Care Occupancy",
+        "confidence_score": 25.71
+    },
+    "MONITORING ASST INFECT TELEMETRY": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 21.05
+    },
+    "CONT REN VENT SUPP /SA-2853": {
+        "mapped_service": "Elective Cardiac Transport Service",
+        "confidence_score": 26.92
+    },
+    "OCC STD MSK RECOV RM": {
+        "mapped_service": "Standard Musculoskeletal Recovery Room Occupancy",
+        "confidence_score": 26.47
+    },
+    "ANLY - DERM SPCM": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 21.82
+    },
+    "PAED  INF THER": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 20.41
+    },
+    "OCC  PREOP NEUROLOGICAL ISOL RM /SA-3078": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 24.66
+    },
+    "EXT VASC HM": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 25.64
+    },
+    "EMER REN INF THER": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 28.57
+    },
+    "PREOP NEURO ISOL RM": {
+        "mapped_service": "Routine Ophthalmic Laboratory Panel",
+        "confidence_score": 25.93
+    },
+    "EXT RADIOTHER FRACT": {
+        "mapped_service": "Extended Orthopaedic Radiotherapy Fraction",
+        "confidence_score": 19.67
+    },
+    "ELECT CARD NURS OBS": {
+        "mapped_service": "Elective Cardiac Nursing Observation",
+        "confidence_score": 25.45
+    },
+    "SPCM  - INTERM CARD /SA-3094": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 21.43
+    },
+    "OCC PREOPERATIVE NEURO ISOL RM": {
+        "mapped_service": "Inpatient Ophthalmic Recovery Room Occupancy",
+        "confidence_score": 24.32
+    },
+    "ADV DERM ANLY": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 19.23
+    },
+    "OCC ADV INFECT ISOL ROOM /SA-3253": {
+        "mapped_service": "Advanced Infectious Isolation Room Occupancy",
+        "confidence_score": 26.47
+    },
+    "PAED THEATRE TM /SA-1156": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.28
+    },
+    "COMPR ENT CS CONF /SA-8008": {
+        "mapped_service": "Advanced Endocrine Case Conference",
+        "confidence_score": 23.53
+    },
+    "INPT PAED ISOL RM OCC": {
+        "mapped_service": "Inpatient Paediatric Isolation Room Occupancy",
+        "confidence_score": 27.27
+    },
+    "PREOP CARD SPECIMEN ANLY /SA-9557": {
+        "mapped_service": "Preoperative Cardiac Specimen Analysis",
+        "confidence_score": 22.58
+    },
+    "PROC  SUPV HAEM BIOP /SA-6944": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 24.14
+    },
+    "FOC OPHTH LAB PNL /SA-4929": {
+        "mapped_service": "Focused Ophthalmic Laboratory Panel",
+        "confidence_score": 26.92
+    },
+    "ADV RHEUM RM OCCUPANCY": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 21.88
+    },
+    "POSTOP NEURO REHABILITATION PROG": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 18.92
+    },
+    "ONC WD BD OCC /SA-5889": {
+        "mapped_service": "Intensive Palliative Ward Bed Occupancy",
+        "confidence_score": 23.08
+    },
+    "PROCEDURE SUPV HEP ENDOSC": {
+        "mapped_service": "Extended Vascular Home Visit",
+        "confidence_score": 22.64
+    },
+    "METAB LAB PANEL": {
+        "mapped_service": "Supervised Metabolic Laboratory Panel",
+        "confidence_score": 19.23
+    },
+    "INTERMITTENT PSYCH LAB": {
+        "mapped_service": "Supervised Hepatic Endoscopic Procedure",
+        "confidence_score": 16.39
+    },
+    "OBST PHYSIO SESS PREOP": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 22.95
+    },
+    "EMER - PAED THTR TM /SA-9306": {
+        "mapped_service": "Emergency Paediatric Theatre Time",
+        "confidence_score": 26.92
+    },
+    "INTENS - ENT REHAB PROG /SA-6734": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.82
+    },
+    "PREOP  OBST PHYSIO SESS /SA-5105": {
+        "mapped_service": "Supervised Haematology Biopsy Procedure",
+        "confidence_score": 22.95
+    },
+    "CARD  NURS OBS": {
+        "mapped_service": "Focused Cardiac Dialysis Session",
+        "confidence_score": 22.22
+    },
+    "AMBULATORY - OPHTH VENTILATION SUPP": {
+        "mapped_service": "Preoperative Orthopaedic Ventilation Support",
+        "confidence_score": 17.72
+    },
+    "POSTOP NEURO REHAB PROG /SA-1572": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 21.54
+    },
+    "FOC  VASC PHARM DISP /SA-5164": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 23.08
+    },
+    "RTN INFECT RM OCC": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 24.49
+    },
+    "EMER MSK PROG /SA-4534": {
+        "mapped_service": "Standard Metabolic Telemetry Monitoring",
+        "confidence_score": 19.23
+    },
+    "ROUTINE HEP CS CONF": {
+        "mapped_service": "Focused Palliative Recovery Room Occupancy",
+        "confidence_score": 19.67
+    },
+    "STD ENT ANAES ADMIN /SA-3414": {
+        "mapped_service": "Advanced Dermatologic Specimen Analysis",
+        "confidence_score": 20.69
+    },
+    "STD  GI TELEM MONIT": {
+        "mapped_service": "Standard Paediatric Infusion Therapy",
+        "confidence_score": 22.22
+    },
+    "SUPV OPHTH IMG": {
+        "mapped_service": "Preoperative Obstetric Home Visit",
+        "confidence_score": 21.28
+    },
+    "IMG CONT CARD DIAG /SA-4810": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 21.43
+    },
+    "PLNG  BEDS GERIATRIC DISCH": {
+        "mapped_service": "Emergency Renal Infusion Therapy",
+        "confidence_score": 21.05
+    },
+    "AMB - PALL DIAGNOSTIC IMG /SA-7135": {
+        "mapped_service": "Intermittent Cardiac Specimen Analysis",
+        "confidence_score": 19.05
+    },
+    "INTENS  - METAB RECOV RM OCC": {
+        "mapped_service": "Routine Infectious Isolation Room Occupancy",
+        "confidence_score": 22.86
+    }
+}

@@ -1,0 +1,733 @@
+{
+    "contract_metadata": {
+        "provider_name": "Rivermead General Hospital",
+        "contract_number": "INS-H3-2024-0562",
+        "effective_dates": {
+            "start": "1 January 2024",
+            "end": "31 December 2025"
+        },
+        "currency": "GBP"
+    },
+    "services": [
+        {
+            "service_name": "Advanced Gastrointestinal Telemetry Monitoring",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 128100,
+            "conditions": ""
+        },
+        {
+            "service_name": "Advanced Geriatric Nutritional Support",
+            "unit_basis": "per unit dispensed",
+            "unit_price_cents": 1250,
+            "conditions": ""
+        },
+        {
+            "service_name": "Advanced Metabolic Discharge Planning",
+            "unit_basis": "per hour",
+            "unit_price_cents": 21075,
+            "conditions": ""
+        },
+        {
+            "service_name": "Advanced Musculoskeletal Radiotherapy Fraction",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 348975,
+            "conditions": ""
+        },
+        {
+            "service_name": "Advanced Paediatric Telemetry Monitoring",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 41000,
+            "conditions": ""
+        },
+        {
+            "service_name": "Advanced Rheumatologic Pharmaceutical Dispensing",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 27875,
+            "conditions": "more than 6 items: +30% uplift"
+        },
+        {
+            "service_name": "Ambulatory Metabolic Isolation Room Occupancy",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 159725,
+            "conditions": "Non-Business-Day: +12% uplift"
+        },
+        {
+            "service_name": "Ambulatory Ophthalmic Imaging Interpretation",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 414850,
+            "conditions": "more than 100 procedures: 10% discount"
+        },
+        {
+            "service_name": "Ambulatory Otolaryngologic Imaging Interpretation",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 208200,
+            "conditions": "Maximum 12 units per Patient per Service Day"
+        },
+        {
+            "service_name": "Ambulatory Renal Case Conference",
+            "unit_basis": "per hour",
+            "unit_price_cents": 8775,
+            "conditions": "more than 8 hours: +25% uplift"
+        },
+        {
+            "service_name": "Assisted Ophthalmic Recovery Room Occupancy",
+            "unit_basis": "per hour",
+            "unit_price_cents": 8775,
+            "conditions": ""
+        },
+        {
+            "service_name": "Assisted Paediatric Dialysis Session",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 372800,
+            "conditions": "Maximum 12 units per Patient per Service Day"
+        },
+        {
+            "service_name": "Assisted Urologic Endoscopic Procedure",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 111225,
+            "conditions": "more than 100 procedures: 10% discount; more than 300 procedures: 20% discount"
+        },
+        {
+            "service_name": "Bedside Cardiac Recovery Room Occupancy",
+            "unit_basis": "per night of occupancy",
+            "unit_price_cents": 167750,
+            "conditions": ""
+        },
+        {
+            "service_name": "Bedside Geriatric Telemetry Monitoring",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 131100,
+            "conditions": ""
+        },
+        {
+            "service_name": "Bedside Metabolic Infusion Therapy",
+            "unit_basis": "per unit dispensed",
+            "unit_price_cents": 1850,
+            "conditions": "more than 12 units: +40% uplift"
+        },
+        {
+            "service_name": "Bedside Neurological Pharmaceutical Dispensing",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 9675,
+            "conditions": ""
+        },
+        {
+            "service_name": "Bedside Neurological Radiotherapy Fraction",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 3050,
+            "conditions": ""
+        },
+        {
+            "service_name": "Bedside Oncology Case Conference",
+            "unit_basis": "per hour",
+            "unit_price_cents": 11400,
+            "conditions": ""
+        },
+        {
+            "service_name": "Bedside Palliative Wound Care",
+            "unit_basis": "per visit",
+            "unit_price_cents": 14150,
+            "conditions": "Bundled rate with Intermittent Gastrointestinal Endoscopic Procedure"
+        },
+        {
+            "service_name": "Bedside Pulmonary Sterilisation Service",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 381825,
+            "conditions": ""
+        },
+        {
+            "service_name": "Bedside Renal Imaging Interpretation",
+            "unit_basis": "per test",
+            "unit_price_cents": 59250,
+            "conditions": ""
+        },
+        {
+            "service_name": "Bedside Urologic Laboratory Panel",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 2000,
+            "conditions": "more than 80 items: 10% discount; more than 240 items: 20% discount"
+        },
+        {
+            "service_name": "Bedside Urologic Ventilation Support",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 168975,
+            "conditions": "more than 80 days: 12% discount; more than 240 days: 30% discount"
+        },
+        {
+            "service_name": "Bedside Vascular Critical Care Occupancy",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 144425,
+            "conditions": "Maximum 8 days per Patient per Service Day"
+        },
+        {
+            "service_name": "Comprehensive Haematology Radiotherapy Fraction",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 156925,
+            "conditions": ""
+        },
+        {
+            "service_name": "Comprehensive Orthopaedic Wound Care",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 16600,
+            "conditions": ""
+        },
+        {
+            "service_name": "Comprehensive Palliative Diagnostic Imaging",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 163525,
+            "conditions": ""
+        },
+        {
+            "service_name": "Continuous Gastrointestinal Laboratory Panel",
+            "unit_basis": "per test",
+            "unit_price_cents": 56000,
+            "conditions": ""
+        },
+        {
+            "service_name": "Continuous Immunologic Critical Care Occupancy",
+            "unit_basis": "per hour",
+            "unit_price_cents": 20725,
+            "conditions": "Bundled rate with Specialist Ophthalmic Nutritional Support"
+        },
+        {
+            "service_name": "Continuous Immunologic Isolation Room Occupancy",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 116275,
+            "conditions": "Maximum 24 days per Patient per Service Day"
+        },
+        {
+            "service_name": "Continuous Pulmonary Wound Care",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 27625,
+            "conditions": ""
+        },
+        {
+            "service_name": "Continuous Renal Isolation Room Occupancy",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 50125,
+            "conditions": "Non-Business-Day: +10% uplift"
+        },
+        {
+            "service_name": "Elective Palliative Physiotherapy Session",
+            "unit_basis": "per hour",
+            "unit_price_cents": 18800,
+            "conditions": "more than 60 hours: 10% discount; more than 180 hours: 20% discount"
+        },
+        {
+            "service_name": "Elective Pulmonary Consultation",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 399025,
+            "conditions": "Bundled rate with Focused Neurological Physiotherapy Session"
+        },
+        {
+            "service_name": "Emergency Dermatologic Sterilisation Service",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 23025,
+            "conditions": "more than 10 items: +40% uplift"
+        },
+        {
+            "service_name": "Emergency Oncology Biopsy Procedure",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 20375,
+            "conditions": "more than 6 items: +30% uplift"
+        },
+        {
+            "service_name": "Emergency Pulmonary Biopsy Procedure",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 26350,
+            "conditions": ""
+        },
+        {
+            "service_name": "Emergency Renal Isolation Room Occupancy",
+            "unit_basis": "per night of occupancy",
+            "unit_price_cents": 49050,
+            "conditions": ""
+        },
+        {
+            "service_name": "Emergency Vascular Biopsy Procedure",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 215625,
+            "conditions": "Not billable within 30 days of Preoperative Endocrine Dialysis Session"
+        },
+        {
+            "service_name": "Extended Dermatologic Infusion Therapy",
+            "unit_basis": "per unit dispensed",
+            "unit_price_cents": 3475,
+            "conditions": ""
+        },
+        {
+            "service_name": "Extended Dermatologic Sterilisation Service",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 161525,
+            "conditions": ""
+        },
+        {
+            "service_name": "Extended Geriatric Infusion Therapy",
+            "unit_basis": "per unit dispensed",
+            "unit_price_cents": 6100,
+            "conditions": "Not billable within 14 days of Inpatient Obstetric Wound Care"
+        },
+        {
+            "service_name": "Extended Haematology Radiotherapy Fraction",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 27575,
+            "conditions": "Non-Business-Day: +15% uplift"
+        },
+        {
+            "service_name": "Extended Infectious Telemetry Monitoring",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 82675,
+            "conditions": "more than 100 days: 12% discount; more than 300 days: 25% discount"
+        },
+        {
+            "service_name": "Extended Musculoskeletal Endoscopic Procedure",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 442975,
+            "conditions": "Bundled rate with Focused Obstetric Nutritional Support"
+        },
+        {
+            "service_name": "Extended Neurological Theatre Time",
+            "unit_basis": "per hour",
+            "unit_price_cents": 3700,
+            "conditions": ""
+        },
+        {
+            "service_name": "Focused Metabolic Theatre Time",
+            "unit_basis": "per hour",
+            "unit_price_cents": 4200,
+            "conditions": "Maximum 12 hours per Patient per Service Day"
+        },
+        {
+            "service_name": "Focused Neurological Physiotherapy Session",
+            "unit_basis": "per visit",
+            "unit_price_cents": 11125,
+            "conditions": ""
+        },
+        {
+            "service_name": "Focused Obstetric Nutritional Support",
+            "unit_basis": "per unit dispensed",
+            "unit_price_cents": 6925,
+            "conditions": ""
+        },
+        {
+            "service_name": "Focused Urologic Telemetry Monitoring",
+            "unit_basis": "per hour, per item",
+            "unit_price_cents": 5225,
+            "conditions": ""
+        },
+        {
+            "service_name": "Inpatient Gastrointestinal Pharmaceutical Dispensing",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 23550,
+            "conditions": "Maximum 12 items per Patient per Service Day"
+        },
+        {
+            "service_name": "Inpatient Haematology Imaging Interpretation",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 123075,
+            "conditions": ""
+        },
+        {
+            "service_name": "Inpatient Hepatic Biopsy Procedure",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 3650,
+            "conditions": "Bundled rate with Specialist Gastrointestinal Specimen Analysis"
+        },
+        {
+            "service_name": "Inpatient Infectious Specimen Analysis",
+            "unit_basis": "per test",
+            "unit_price_cents": 34775,
+            "conditions": "more than 80 tests: 15% discount; more than 240 tests: 25% discount"
+        },
+        {
+            "service_name": "Inpatient Metabolic Infusion Therapy",
+            "unit_basis": "per hour",
+            "unit_price_cents": 14850,
+            "conditions": "more than 16 hours: +40% uplift"
+        },
+        {
+            "service_name": "Inpatient Metabolic Theatre Time",
+            "unit_basis": "per hour",
+            "unit_price_cents": 21000,
+            "conditions": "Maximum 12 hours per Patient per Service Day"
+        },
+        {
+            "service_name": "Inpatient Musculoskeletal Theatre Time",
+            "unit_basis": "per hour",
+            "unit_price_cents": 9250,
+            "conditions": "Not billable within 21 days of Intermittent Infectious Theatre Time"
+        },
+        {
+            "service_name": "Inpatient Obstetric Diagnostic Imaging",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 327325,
+            "conditions": "Maximum 8 procedures per Patient per Service Day"
+        },
+        {
+            "service_name": "Inpatient Obstetric Wound Care",
+            "unit_basis": "per visit",
+            "unit_price_cents": 34175,
+            "conditions": ""
+        },
+        {
+            "service_name": "Intensive Immunologic Wound Care",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 13275,
+            "conditions": ""
+        },
+        {
+            "service_name": "Intensive Infectious Anaesthesia Administration",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 312350,
+            "conditions": "Maximum 4 procedures per Patient per Service Day"
+        },
+        {
+            "service_name": "Intensive Oncology Nutritional Support",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 62675,
+            "conditions": "Non-Business-Day: +25% uplift"
+        },
+        {
+            "service_name": "Intensive Ophthalmic Laboratory Panel",
+            "unit_basis": "per test",
+            "unit_price_cents": 39725,
+            "conditions": "Not billable within 30 days of Assisted Ophthalmic Recovery Room Occupancy"
+        },
+        {
+            "service_name": "Intensive Otolaryngologic Anaesthesia Administration",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 80275,
+            "conditions": "more than 60 procedures: 12% discount"
+        },
+        {
+            "service_name": "Intensive Paediatric Biopsy Procedure",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 399700,
+            "conditions": ""
+        },
+        {
+            "service_name": "Intermittent Dermatologic Physiotherapy Session",
+            "unit_basis": "per visit",
+            "unit_price_cents": 35175,
+            "conditions": "more than 60 visits: 12% discount; more than 180 visits: 30% discount"
+        },
+        {
+            "service_name": "Intermittent Gastrointestinal Endoscopic Procedure",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 276475,
+            "conditions": "Bundled rate with Bedside Palliative Wound Care"
+        },
+        {
+            "service_name": "Intermittent Immunologic Isolation Room Occupancy",
+            "unit_basis": "per night of occupancy",
+            "unit_price_cents": 110525,
+            "conditions": ""
+        },
+        {
+            "service_name": "Intermittent Infectious Theatre Time",
+            "unit_basis": "per hour",
+            "unit_price_cents": 13900,
+            "conditions": ""
+        },
+        {
+            "service_name": "Intermittent Otolaryngologic Wound Care",
+            "unit_basis": "per visit",
+            "unit_price_cents": 28500,
+            "conditions": ""
+        },
+        {
+            "service_name": "Outpatient Gastrointestinal Isolation Room Occupancy",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 57050,
+            "conditions": ""
+        },
+        {
+            "service_name": "Outpatient Haematology Transport Service",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 13375,
+            "conditions": "Not billable within 30 days of Inpatient Obstetric Wound Care"
+        },
+        {
+            "service_name": "Outpatient Infectious Anaesthesia Administration",
+            "unit_basis": "per hour",
+            "unit_price_cents": 11950,
+            "conditions": ""
+        },
+        {
+            "service_name": "Outpatient Metabolic Rehabilitation Programme",
+            "unit_basis": "per visit",
+            "unit_price_cents": 18975,
+            "conditions": ""
+        },
+        {
+            "service_name": "Outpatient Pulmonary Transport Service",
+            "unit_basis": "per visit",
+            "unit_price_cents": 18125,
+            "conditions": "more than 12 visits: +40% uplift"
+        },
+        {
+            "service_name": "Outpatient Renal Specimen Analysis",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 20700,
+            "conditions": "more than 60 items: 15% discount"
+        },
+        {
+            "service_name": "Outpatient Rheumatologic Pharmaceutical Dispensing",
+            "unit_basis": "per unit dispensed",
+            "unit_price_cents": 8050,
+            "conditions": "more than 10 units: +40% uplift"
+        },
+        {
+            "service_name": "Postoperative Cardiac Ward Bed Occupancy",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 134325,
+            "conditions": "more than 100 days: 15% discount"
+        },
+        {
+            "service_name": "Postoperative Dermatologic Physiotherapy Session",
+            "unit_basis": "per hour",
+            "unit_price_cents": 20200,
+            "conditions": "Maximum 4 hours per Patient per Service Day"
+        },
+        {
+            "service_name": "Postoperative Geriatric Nutritional Support",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 108675,
+            "conditions": ""
+        },
+        {
+            "service_name": "Postoperative Haematology Nursing Observation",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 140975,
+            "conditions": "more than 8 days: +20% uplift"
+        },
+        {
+            "service_name": "Postoperative Neurological Diagnostic Imaging",
+            "unit_basis": "per test",
+            "unit_price_cents": 53550,
+            "conditions": ""
+        },
+        {
+            "service_name": "Postoperative Otolaryngologic Laboratory Panel",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 24475,
+            "conditions": ""
+        },
+        {
+            "service_name": "Postoperative Otolaryngologic Rehabilitation Programme",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 147875,
+            "conditions": "Non-Business-Day: +10% uplift"
+        },
+        {
+            "service_name": "Postoperative Psychiatric Endoscopic Procedure",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 368575,
+            "conditions": ""
+        },
+        {
+            "service_name": "Postoperative Pulmonary Consultation",
+            "unit_basis": "per visit",
+            "unit_price_cents": 26750,
+            "conditions": "Non-Business-Day: +25% uplift"
+        },
+        {
+            "service_name": "Postoperative Rheumatologic Anaesthesia Administration",
+            "unit_basis": "per hour",
+            "unit_price_cents": 8725,
+            "conditions": "Non-Business-Day: +20% uplift"
+        },
+        {
+            "service_name": "Preoperative Cardiac Discharge Planning",
+            "unit_basis": "per hour",
+            "unit_price_cents": 5675,
+            "conditions": "Not billable within 30 days of Extended Dermatologic Infusion Therapy"
+        },
+        {
+            "service_name": "Preoperative Dermatologic Dialysis Session",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 439850,
+            "conditions": "Not billable within 10 days of Outpatient Gastrointestinal Isolation Room Occupancy"
+        },
+        {
+            "service_name": "Preoperative Endocrine Dialysis Session",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 400300,
+            "conditions": ""
+        },
+        {
+            "service_name": "Preoperative Gastrointestinal Radiotherapy Fraction",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 26025,
+            "conditions": "Non-Business-Day: +20% uplift"
+        },
+        {
+            "service_name": "Preoperative Ophthalmic Imaging Interpretation",
+            "unit_basis": "per test",
+            "unit_price_cents": 23275,
+            "conditions": "more than 16 tests: +40% uplift"
+        },
+        {
+            "service_name": "Preoperative Paediatric Laboratory Panel",
+            "unit_basis": "per test",
+            "unit_price_cents": 44500,
+            "conditions": ""
+        },
+        {
+            "service_name": "Preoperative Psychiatric Home Visit",
+            "unit_basis": "per visit",
+            "unit_price_cents": 32825,
+            "conditions": "Non-Business-Day: +15% uplift"
+        },
+        {
+            "service_name": "Preoperative Psychiatric Radiotherapy Fraction",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 3450,
+            "conditions": "Maximum 4 items per Patient per Service Day"
+        },
+        {
+            "service_name": "Preoperative Rheumatologic Transport Service",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 15075,
+            "conditions": ""
+        },
+        {
+            "service_name": "Routine Endocrine Specimen Analysis",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 8725,
+            "conditions": ""
+        },
+        {
+            "service_name": "Routine Obstetric Diagnostic Imaging",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 26375,
+            "conditions": "Non-Business-Day: +10% uplift"
+        },
+        {
+            "service_name": "Routine Psychiatric Consultation",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 282975,
+            "conditions": "Maximum 8 procedures per Patient per Service Day"
+        },
+        {
+            "service_name": "Routine Vascular Rehabilitation Programme",
+            "unit_basis": "per visit",
+            "unit_price_cents": 37575,
+            "conditions": "Non-Business-Day: +10% uplift"
+        },
+        {
+            "service_name": "Specialist Dermatologic Infusion Therapy",
+            "unit_basis": "per hour",
+            "unit_price_cents": 17400,
+            "conditions": ""
+        },
+        {
+            "service_name": "Specialist Gastrointestinal Specimen Analysis",
+            "unit_basis": "per test",
+            "unit_price_cents": 52850,
+            "conditions": "Bundled rate with Inpatient Hepatic Biopsy Procedure"
+        },
+        {
+            "service_name": "Specialist Haematology Endoscopic Procedure",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 101900,
+            "conditions": "more than 12 procedures: +15% uplift"
+        },
+        {
+            "service_name": "Specialist Hepatic Case Conference",
+            "unit_basis": "per visit",
+            "unit_price_cents": 35275,
+            "conditions": ""
+        },
+        {
+            "service_name": "Specialist Obstetric Dialysis Session",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 62925,
+            "conditions": ""
+        },
+        {
+            "service_name": "Specialist Ophthalmic Nutritional Support",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 32475,
+            "conditions": "Bundled rate with Continuous Immunologic Critical Care Occupancy"
+        },
+        {
+            "service_name": "Specialist Paediatric Biopsy Procedure",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 14225,
+            "conditions": "more than 8 items: +15% uplift"
+        },
+        {
+            "service_name": "Specialist Psychiatric Discharge Planning",
+            "unit_basis": "per visit",
+            "unit_price_cents": 44050,
+            "conditions": "Non-Business-Day: +10% uplift"
+        },
+        {
+            "service_name": "Specialist Pulmonary Biopsy Procedure",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 385550,
+            "conditions": ""
+        },
+        {
+            "service_name": "Specialist Pulmonary Physiotherapy Session",
+            "unit_basis": "per hour",
+            "unit_price_cents": 12500,
+            "conditions": ""
+        },
+        {
+            "service_name": "Standard Orthopaedic Theatre Time",
+            "unit_basis": "per hour",
+            "unit_price_cents": 6025,
+            "conditions": ""
+        },
+        {
+            "service_name": "Standard Otolaryngologic Discharge Planning",
+            "unit_basis": "per visit",
+            "unit_price_cents": 30600,
+            "conditions": ""
+        },
+        {
+            "service_name": "Standard Rheumatologic Imaging Interpretation",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 383550,
+            "conditions": "more than 8 procedures: +25% uplift"
+        },
+        {
+            "service_name": "Supervised Hepatic Sterilisation Service",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 26625,
+            "conditions": "more than 80 items: 10% discount"
+        },
+        {
+            "service_name": "Supervised Neurological Laboratory Panel",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 23125,
+            "conditions": ""
+        },
+        {
+            "service_name": "Supervised Ophthalmic Nutritional Support",
+            "unit_basis": "per unit dispensed",
+            "unit_price_cents": 5950,
+            "conditions": "more than 16 units: +20% uplift"
+        },
+        {
+            "service_name": "Supervised Otolaryngologic Wound Care",
+            "unit_basis": "per item supplied",
+            "unit_price_cents": 24025,
+            "conditions": ""
+        },
+        {
+            "service_name": "Advanced Dermatologic Nutritional Support",
+            "unit_basis": "per day of service",
+            "unit_price_cents": 86525,
+            "conditions": ""
+        },
+        {
+            "service_name": "Elective Pulmonary Imaging Interpretation",
+            "unit_basis": "per procedure",
+            "unit_price_cents": 456000,
+            "conditions": ""
+        }
+    ]
+}

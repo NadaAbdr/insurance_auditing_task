@@ -1,0 +1,1954 @@
+{
+    "Procedure Routine Urologic Biop /NG-3022": {
+        "mapped_service": "Routine Urologic Biopsy Procedure",
+        "confidence_score": 96.88
+    },
+    "Case - Intensive Ophth /NG-3641": {
+        "mapped_service": "Intensive Ophthalmic Case Conference",
+        "confidence_score": 68.97
+    },
+    "Visit Amb Hm": {
+        "mapped_service": "Ambulatory Cardiac Home Visit",
+        "confidence_score": 58.54
+    },
+    "Elective Pulmonary Nutr Support": {
+        "mapped_service": "Elective Pulmonary Nutritional Support",
+        "confidence_score": 89.86
+    },
+    "Fraction Std Otolaryngologic Radiother": {
+        "mapped_service": "Standard Otolaryngologic Radiotherapy Fraction",
+        "confidence_score": 90.48
+    },
+    "Postop Metabolic Critical Cr Occ": {
+        "mapped_service": "Postoperative Metabolic Critical Care Occupancy",
+        "confidence_score": 81.01
+    },
+    "Intens - Ophthalmic Cs Conference /NG-6174": {
+        "mapped_service": "Intensive Ophthalmic Case Conference",
+        "confidence_score": 84.06
+    },
+    "Occ Supervised Ren Isolation Rm": {
+        "mapped_service": "Supervised Renal Isolation Room Occupancy",
+        "confidence_score": 86.11
+    },
+    "Neuro - Nutr Supp": {
+        "mapped_service": "Intermittent Neurological Nutritional Support",
+        "confidence_score": 51.61
+    },
+    "Inpt Ophthalmic Transport Svc": {
+        "mapped_service": "Inpatient Ophthalmic Transport Service",
+        "confidence_score": 86.57
+    },
+    "Msk Dial Sess": {
+        "mapped_service": "Supervised Musculoskeletal Dialysis Session",
+        "confidence_score": 46.43
+    },
+    "Preoperative Onc Consultation": {
+        "mapped_service": "Preoperative Oncology Consultation",
+        "confidence_score": 92.06
+    },
+    "Consult Advanced Neuro /NG-5114": {
+        "mapped_service": "Advanced Neurological Consultation",
+        "confidence_score": 78.57
+    },
+    "Adv Infect Critical Care Occ /NG-2548": {
+        "mapped_service": "Advanced Infectious Critical Care Occupancy",
+        "confidence_score": 78.87
+    },
+    "Foc Immunologic Physio Sess": {
+        "mapped_service": "Focused Immunologic Physiotherapy Session",
+        "confidence_score": 79.41
+    },
+    "Ambulatory  Pulm Recov Rm Occupancy /NG-9869": {
+        "mapped_service": "Ambulatory Pulmonary Recovery Room Occupancy",
+        "confidence_score": 87.18
+    },
+    "Intermittent - Derm Transf Svc": {
+        "mapped_service": "Intermittent Dermatologic Transfusion Service",
+        "confidence_score": 74.67
+    },
+    "Msk Wd Bd Occ Inpt": {
+        "mapped_service": "Inpatient Musculoskeletal Ward Bed Occupancy",
+        "confidence_score": 58.06
+    },
+    "Ext - Geriatric Wound Care /NG-2898": {
+        "mapped_service": "Extended Geriatric Wound Care",
+        "confidence_score": 87.27
+    },
+    "Rtn Infect Critical Care Occ": {
+        "mapped_service": "Routine Infectious Critical Care Occupancy",
+        "confidence_score": 80.0
+    },
+    "Inpt - Ren Radiotherapy Fraction": {
+        "mapped_service": "Inpatient Renal Radiotherapy Fraction",
+        "confidence_score": 86.96
+    },
+    "Occ Routine Infectious Critical Cr": {
+        "mapped_service": "Routine Infectious Critical Care Occupancy",
+        "confidence_score": 89.47
+    },
+    "Therapy Asst Ger Inf": {
+        "mapped_service": "Assisted Geriatric Infusion Therapy",
+        "confidence_score": 72.73
+    },
+    "Immun Consult": {
+        "mapped_service": "Outpatient Immunologic Consultation",
+        "confidence_score": 54.17
+    },
+    "Prog Emergency Ortho Rehabilitation /NG-5611": {
+        "mapped_service": "Emergency Orthopaedic Rehabilitation Programme",
+        "confidence_score": 86.42
+    },
+    "Compr - Psych Transf Svc": {
+        "mapped_service": "Comprehensive Psychiatric Transfusion Service",
+        "confidence_score": 63.77
+    },
+    "Rtn Immun Ward Bed Occupancy": {
+        "mapped_service": "Routine Immunologic Ward Bed Occupancy",
+        "confidence_score": 84.85
+    },
+    "Interm - Derm Transf Svc": {
+        "mapped_service": "Intermittent Dermatologic Transfusion Service",
+        "confidence_score": 63.77
+    },
+    "Img Vasc Diagnostic": {
+        "mapped_service": "Inpatient Vascular Diagnostic Imaging",
+        "confidence_score": 67.86
+    },
+    "Svc Preop Ent Steril": {
+        "mapped_service": "Preoperative Renal Wound Care",
+        "confidence_score": 44.9
+    },
+    "Cont Obst Rehab Prog /NG-1357": {
+        "mapped_service": "Continuous Obstetric Rehabilitation Programme",
+        "confidence_score": 61.54
+    },
+    "Std Endo Dial Session /NG-7220": {
+        "mapped_service": "Standard Endocrine Dialysis Session",
+        "confidence_score": 75.0
+    },
+    "Outpt Metab Radiother Fract": {
+        "mapped_service": "Outpatient Metabolic Radiotherapy Fraction",
+        "confidence_score": 78.26
+    },
+    "Assisted Pulm Theatre Tm /NG-8055": {
+        "mapped_service": "Assisted Pulmonary Theatre Time",
+        "confidence_score": 87.27
+    },
+    "Emergency - Orthopaedic Rehab Prog": {
+        "mapped_service": "Emergency Orthopaedic Rehabilitation Programme",
+        "confidence_score": 80.0
+    },
+    "Interm Pulm Rehab Prog /NG-4176": {
+        "mapped_service": "Intermittent Pulmonary Rehabilitation Programme",
+        "confidence_score": 63.77
+    },
+    "Preop - Immun Endoscopic Procedure /NG-3497": {
+        "mapped_service": "Preoperative Immunologic Endoscopic Procedure",
+        "confidence_score": 81.01
+    },
+    "Routine Card Specimen Analysis": {
+        "mapped_service": "Routine Cardiac Specimen Analysis",
+        "confidence_score": 95.24
+    },
+    "Std Nutritional Supp": {
+        "mapped_service": "Standard Geriatric Nutritional Support",
+        "confidence_score": 68.97
+    },
+    "Postoperative Pulmonary Wnd Cr /NG-8823": {
+        "mapped_service": "Postoperative Pulmonary Wound Care",
+        "confidence_score": 93.75
+    },
+    "Supervised - Ren Isolation Room Occupancy": {
+        "mapped_service": "Supervised Renal Isolation Room Occupancy",
+        "confidence_score": 95.12
+    },
+    "Service - Foc Ortho Transp": {
+        "mapped_service": "Focused Orthopaedic Transport Service",
+        "confidence_score": 76.19
+    },
+    "Ext Ger Wnd Cr": {
+        "mapped_service": "Extended Geriatric Wound Care",
+        "confidence_score": 65.12
+    },
+    "Msk Wd Bd Occ Amb": {
+        "mapped_service": "Ambulatory Musculoskeletal Ward Bed Occupancy",
+        "confidence_score": 54.84
+    },
+    "Routine - Oncology Disch": {
+        "mapped_service": "Routine Oncology Discharge Planning",
+        "confidence_score": 74.58
+    },
+    "Derm Transf Svc Rtn": {
+        "mapped_service": "Routine Dermatologic Transfusion Service",
+        "confidence_score": 64.41
+    },
+    "Elective Pulm Nutr Support": {
+        "mapped_service": "Elective Pulmonary Nutritional Support",
+        "confidence_score": 81.25
+    },
+    "Preop Oncology Consult /NG-5826": {
+        "mapped_service": "Preoperative Oncology Consultation",
+        "confidence_score": 78.57
+    },
+    "Extended Ren Transp": {
+        "mapped_service": "Extended Renal Transport Service",
+        "confidence_score": 74.51
+    },
+    "Comprehensive Infect Nursing": {
+        "mapped_service": "Comprehensive Infectious Nursing Observation",
+        "confidence_score": 77.78
+    },
+    "Std Endo Endoscopic Procedure": {
+        "mapped_service": "Standard Endocrine Endoscopic Procedure",
+        "confidence_score": 85.29
+    },
+    "Adv Rheumatologic Lab Panel": {
+        "mapped_service": "Advanced Rheumatologic Laboratory Panel",
+        "confidence_score": 81.82
+    },
+    "Advanced Neuro Consultation": {
+        "mapped_service": "Advanced Neurological Consultation",
+        "confidence_score": 88.52
+    },
+    "Occupancy Postoperative Obstetric Isol Rm": {
+        "mapped_service": "Postoperative Obstetric Isolation Room Occupancy",
+        "confidence_score": 92.13
+    },
+    "Spclst Derm Transport Service": {
+        "mapped_service": "Specialist Dermatologic Transport Service",
+        "confidence_score": 82.86
+    },
+    "Preop Endo Physiotherapy Sess": {
+        "mapped_service": "Preoperative Endocrine Physiotherapy Session",
+        "confidence_score": 79.45
+    },
+    "Occupancy Bedside Ent Recovery Room": {
+        "mapped_service": "Bedside Otolaryngologic Recovery Room Occupancy",
+        "confidence_score": 75.61
+    },
+    "Therapy Asst Gi Inf": {
+        "mapped_service": "Assisted Geriatric Infusion Therapy",
+        "confidence_score": 70.37
+    },
+    "Ambulatory  Pulm Recovery Room Occupancy": {
+        "mapped_service": "Ambulatory Pulmonary Recovery Room Occupancy",
+        "confidence_score": 93.98
+    },
+    "Continuous - Ent Telemetry Monit /NG-9499": {
+        "mapped_service": "Continuous Otolaryngologic Telemetry Monitoring",
+        "confidence_score": 68.35
+    },
+    "Focused - Orthopaedic Transp Svc": {
+        "mapped_service": "Focused Orthopaedic Transport Service",
+        "confidence_score": 86.96
+    },
+    "Interm Rheumatologic Diag Img": {
+        "mapped_service": "Intermittent Rheumatologic Diagnostic Imaging",
+        "confidence_score": 78.38
+    },
+    "Standard Ent Radiotherapy Fract": {
+        "mapped_service": "Emergency Renal Radiotherapy Fraction",
+        "confidence_score": 70.59
+    },
+    "Intens - Nutr Support": {
+        "mapped_service": "Intensive Geriatric Nutritional Support",
+        "confidence_score": 66.67
+    },
+    "Occupancy Inpatient Palliative Isol Room": {
+        "mapped_service": "Inpatient Palliative Isolation Room Occupancy",
+        "confidence_score": 94.12
+    },
+    "Paed Biop Proc Std": {
+        "mapped_service": "Standard Paediatric Biopsy Procedure",
+        "confidence_score": 66.67
+    },
+    "Occupancy - Beds Otolaryngologic Recov Room": {
+        "mapped_service": "Bedside Otolaryngologic Recovery Room Occupancy",
+        "confidence_score": 91.11
+    },
+    "Cs Amb Ophthalmic /NG-7838": {
+        "mapped_service": "Ambulatory Ophthalmic Case Conference",
+        "confidence_score": 62.96
+    },
+    "Fraction Outpatient Metab Radiotherapy /NG-5514": {
+        "mapped_service": "Outpatient Metabolic Radiotherapy Fraction",
+        "confidence_score": 95.0
+    },
+    "Rtn Cardiac Spcm Anly /NG-6683": {
+        "mapped_service": "Routine Cardiac Specimen Analysis",
+        "confidence_score": 77.78
+    },
+    "Specialist Neurological Recovery Rm /NG-7294": {
+        "mapped_service": "Specialist Neurological Recovery Room Occupancy",
+        "confidence_score": 85.37
+    },
+    "Ambulatory Ophthalmic Dial Session": {
+        "mapped_service": "Ambulatory Ophthalmic Dialysis Session",
+        "confidence_score": 94.44
+    },
+    "Disp Specialist Otolaryngologic Pharmaceutical": {
+        "mapped_service": "Specialist Otolaryngologic Pharmaceutical Dispensing",
+        "confidence_score": 93.88
+    },
+    "Compr Psychiatric Transfusion Svc": {
+        "mapped_service": "Comprehensive Psychiatric Transfusion Service",
+        "confidence_score": 84.62
+    },
+    "Extended Metabolic Isol Rm Occupancy /NG-9372": {
+        "mapped_service": "Extended Metabolic Isolation Room Occupancy",
+        "confidence_score": 91.14
+    },
+    "Ger Nutr Supp Intens": {
+        "mapped_service": "Intensive Geriatric Nutritional Support",
+        "confidence_score": 67.8
+    },
+    "Specialist - Otolaryngologic Pharm Disp /NG-4235": {
+        "mapped_service": "Specialist Otolaryngologic Pharmaceutical Dispensing",
+        "confidence_score": 81.32
+    },
+    "Elective Pulmonary Nutr Supp": {
+        "mapped_service": "Elective Pulmonary Nutritional Support",
+        "confidence_score": 84.85
+    },
+    "Compr Onc Nurs Observation": {
+        "mapped_service": "Comprehensive Oncology Nursing Observation",
+        "confidence_score": 76.47
+    },
+    "Hep Physio Sess Inpt": {
+        "mapped_service": "Inpatient Hepatic Physiotherapy Session",
+        "confidence_score": 67.8
+    },
+    "Spclst Ent Theatre Tm": {
+        "mapped_service": "Specialist Otolaryngologic Theatre Time",
+        "confidence_score": 63.33
+    },
+    "Ent Thtr Tm Compr": {
+        "mapped_service": "Comprehensive Otolaryngologic Theatre Time",
+        "confidence_score": 50.85
+    },
+    "Compr Infectious Nurs": {
+        "mapped_service": "Comprehensive Infectious Nursing Observation",
+        "confidence_score": 64.62
+    },
+    "Conf Amb Ophth Cs /NG-4640": {
+        "mapped_service": "Ambulatory Ophthalmic Case Conference",
+        "confidence_score": 51.85
+    },
+    "Conference Emer Dermatologic Cs": {
+        "mapped_service": "Emergency Dermatologic Case Conference",
+        "confidence_score": 81.16
+    },
+    "Care Cont Musculoskeletal Wnd /NG-8990": {
+        "mapped_service": "Continuous Musculoskeletal Wound Care",
+        "confidence_score": 87.88
+    },
+    "Prog Comprehensive Otolaryngologic Rehab": {
+        "mapped_service": "Comprehensive Otolaryngologic Rehabilitation Programme",
+        "confidence_score": 85.11
+    },
+    "Ophth Radiother Fract Postop": {
+        "mapped_service": "Postoperative Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 75.68
+    },
+    "Intens Gastrointestinal Isolation Rm Occupancy": {
+        "mapped_service": "Intensive Gastrointestinal Isolation Room Occupancy",
+        "confidence_score": 94.85
+    },
+    "Cont - Pulmonary Wnd Cr": {
+        "mapped_service": "Continuous Pulmonary Wound Care",
+        "confidence_score": 70.37
+    },
+    "Ortho Transp Svc": {
+        "mapped_service": "Focused Orthopaedic Transport Service",
+        "confidence_score": 60.38
+    },
+    "Visit - Assisted Urol Home /NG-4509": {
+        "mapped_service": "Assisted Urologic Home Visit",
+        "confidence_score": 88.89
+    },
+    "Cont Pharmaceutical Disp": {
+        "mapped_service": "Continuous Vascular Pharmaceutical Dispensing",
+        "confidence_score": 69.57
+    },
+    "Occupancy - Spclst Neurological Recovery Rm /NG-4948": {
+        "mapped_service": "Specialist Neurological Recovery Room Occupancy",
+        "confidence_score": 91.11
+    },
+    "Asst Infectious Discharge Plng": {
+        "mapped_service": "Assisted Infectious Discharge Planning",
+        "confidence_score": 88.24
+    },
+    "Preop - Geriatric Ventilation Supp": {
+        "mapped_service": "Preoperative Geriatric Ventilation Support",
+        "confidence_score": 84.21
+    },
+    "Emer Ortho Rehabilitation Prog": {
+        "mapped_service": "Emergency Orthopaedic Rehabilitation Programme",
+        "confidence_score": 78.95
+    },
+    "Foc - Immunologic Physio": {
+        "mapped_service": "Focused Immunologic Physiotherapy Session",
+        "confidence_score": 67.69
+    },
+    "Cont - Immunologic Thtr Tm": {
+        "mapped_service": "Continuous Immunologic Theatre Time",
+        "confidence_score": 78.69
+    },
+    "Preop Renal Wnd Cr": {
+        "mapped_service": "Preoperative Renal Wound Care",
+        "confidence_score": 76.6
+    },
+    "Asst Urologic Home Vst": {
+        "mapped_service": "Assisted Urologic Home Visit",
+        "confidence_score": 88.0
+    },
+    "Psych Rehab Programme": {
+        "mapped_service": "Routine Psychiatric Rehabilitation Programme",
+        "confidence_score": 64.62
+    },
+    "Specialist - Neuro Recov Rm Occ": {
+        "mapped_service": "Specialist Neurological Recovery Room Occupancy",
+        "confidence_score": 74.36
+    },
+    "Ent Steril Svc Preop": {
+        "mapped_service": "Preoperative Renal Wound Care",
+        "confidence_score": 44.9
+    },
+    "Procedure Immun Endosc": {
+        "mapped_service": "Ambulatory Immunologic Endoscopic Procedure",
+        "confidence_score": 67.69
+    },
+    "Immun Wd Bd Occ Rtn": {
+        "mapped_service": "Routine Immunologic Ward Bed Occupancy",
+        "confidence_score": 66.67
+    },
+    "Compr Oncology Nurs Obs": {
+        "mapped_service": "Comprehensive Oncology Nursing Observation",
+        "confidence_score": 70.77
+    },
+    "Standard Pulm Dial Sess": {
+        "mapped_service": "Standard Pulmonary Dialysis Session",
+        "confidence_score": 79.31
+    },
+    "Paed Biop Proc Spclst": {
+        "mapped_service": "Specialist Paediatric Biopsy Procedure",
+        "confidence_score": 71.19
+    },
+    "Cont Obstetric Rehab Programme /NG-9792": {
+        "mapped_service": "Continuous Obstetric Rehabilitation Programme",
+        "confidence_score": 80.0
+    },
+    "Ambulatory Psych Dial Session": {
+        "mapped_service": "Ambulatory Psychiatric Dialysis Session",
+        "confidence_score": 85.29
+    },
+    "Ext Pall Lab Panel /NG-9077": {
+        "mapped_service": "Extended Palliative Laboratory Panel",
+        "confidence_score": 66.67
+    },
+    "Advanced Rheum Laboratory Pnl /NG-2701": {
+        "mapped_service": "Advanced Rheumatologic Laboratory Panel",
+        "confidence_score": 85.29
+    },
+    "Compr Otolaryngologic Rehab Prog /NG-9048": {
+        "mapped_service": "Comprehensive Otolaryngologic Rehabilitation Programme",
+        "confidence_score": 74.42
+    },
+    "Preop Endocrine Physio Session": {
+        "mapped_service": "Preoperative Endocrine Physiotherapy Session",
+        "confidence_score": 81.08
+    },
+    "Occ  - Postoperative Obstetric Isol Rm": {
+        "mapped_service": "Postoperative Obstetric Isolation Room Occupancy",
+        "confidence_score": 82.35
+    },
+    "Inpatient Ren Radiotherapy Fraction /NG-3532": {
+        "mapped_service": "Inpatient Renal Radiotherapy Fraction",
+        "confidence_score": 97.22
+    },
+    "Amb Urol Imaging Interpretation": {
+        "mapped_service": "Ambulatory Urologic Imaging Interpretation",
+        "confidence_score": 84.93
+    },
+    "Focused Immun Physiotherapy Sess": {
+        "mapped_service": "Focused Immunologic Physiotherapy Session",
+        "confidence_score": 87.67
+    },
+    "Obs Cont Card Nursing": {
+        "mapped_service": "Continuous Cardiac Nursing Observation",
+        "confidence_score": 71.19
+    },
+    "Continuous Immun Theatre Time /NG-4759": {
+        "mapped_service": "Continuous Immunologic Theatre Time",
+        "confidence_score": 90.62
+    },
+    "Amb Infectious Visit": {
+        "mapped_service": "Ambulatory Infectious Home Visit",
+        "confidence_score": 76.92
+    },
+    "Adv Card Recov Rm": {
+        "mapped_service": "Advanced Cardiac Recovery Room Occupancy",
+        "confidence_score": 59.65
+    },
+    "Advanced Metab Anaes": {
+        "mapped_service": "Advanced Metabolic Anaesthesia Administration",
+        "confidence_score": 61.54
+    },
+    "Advanced Critical Cr Occupancy": {
+        "mapped_service": "Advanced Infectious Critical Care Occupancy",
+        "confidence_score": 82.19
+    },
+    "Beds Pulmonary Biop Proc": {
+        "mapped_service": "Bedside Pulmonary Biopsy Procedure",
+        "confidence_score": 82.76
+    },
+    "Ophth Cs Conf Intens": {
+        "mapped_service": "Intensive Ophthalmic Case Conference",
+        "confidence_score": 60.71
+    },
+    "Compr - Urologic Transport Service": {
+        "mapped_service": "Comprehensive Urologic Transport Service",
+        "confidence_score": 86.49
+    },
+    "Programme Interm Pulmonary Rehab": {
+        "mapped_service": "Intermittent Pulmonary Rehabilitation Programme",
+        "confidence_score": 81.01
+    },
+    "Specialist Derm Transp": {
+        "mapped_service": "Specialist Dermatologic Transport Service",
+        "confidence_score": 69.84
+    },
+    "Observation Cont Nurs": {
+        "mapped_service": "Continuous Cardiac Nursing Observation",
+        "confidence_score": 71.19
+    },
+    "Procedure Standard Endocrine Endosc": {
+        "mapped_service": "Standard Endocrine Endoscopic Procedure",
+        "confidence_score": 94.59
+    },
+    "Ent Steril Svc Supv": {
+        "mapped_service": "Elective Cardiac Nutritional Support",
+        "confidence_score": 40.0
+    },
+    "Rtn Biop Proc /NG-7762": {
+        "mapped_service": "Routine Urologic Biopsy Procedure",
+        "confidence_score": 56.52
+    },
+    "Standard Ger Nutr Support /NG-7257": {
+        "mapped_service": "Standard Geriatric Nutritional Support",
+        "confidence_score": 79.37
+    },
+    "Postoperative Ophthalmic Radiother Fract /NG-5937": {
+        "mapped_service": "Postoperative Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 93.02
+    },
+    "Occupancy Postop Obstetric Isol Room": {
+        "mapped_service": "Postoperative Obstetric Isolation Room Occupancy",
+        "confidence_score": 85.71
+    },
+    "Ext Geriatric Wnd Cr /NG-7617": {
+        "mapped_service": "Extended Geriatric Wound Care",
+        "confidence_score": 81.63
+    },
+    "Procedure Amb Immunologic Endoscopic": {
+        "mapped_service": "Ambulatory Immunologic Endoscopic Procedure",
+        "confidence_score": 91.14
+    },
+    "Advanced Card Recov Rm Occ": {
+        "mapped_service": "Advanced Cardiac Recovery Room Occupancy",
+        "confidence_score": 78.79
+    },
+    "Therapy Rtn Haem Inf": {
+        "mapped_service": "Routine Haematology Infusion Therapy",
+        "confidence_score": 71.43
+    },
+    "Amb Psych Dial Session": {
+        "mapped_service": "Ambulatory Psychiatric Dialysis Session",
+        "confidence_score": 72.13
+    },
+    "Emer Ortho Consult": {
+        "mapped_service": "Emergency Orthopaedic Consultation",
+        "confidence_score": 69.23
+    },
+    "Amb Ophthalmic Dial Sess": {
+        "mapped_service": "Ambulatory Ophthalmic Dialysis Session",
+        "confidence_score": 77.42
+    },
+    "Occupancy Rtn Pall Crit Cr": {
+        "mapped_service": "Routine Palliative Critical Care Occupancy",
+        "confidence_score": 76.47
+    },
+    "Occ Inpt Msk Wd Bd": {
+        "mapped_service": "Inpatient Musculoskeletal Ward Bed Occupancy",
+        "confidence_score": 58.06
+    },
+    "Amb Urologic Img Interp": {
+        "mapped_service": "Ambulatory Urologic Imaging Interpretation",
+        "confidence_score": 70.77
+    },
+    "Elect Cardiac Nutritional Supp /NG-3162": {
+        "mapped_service": "Elective Cardiac Nutritional Support",
+        "confidence_score": 90.91
+    },
+    "Immun Endosc Proc Amb": {
+        "mapped_service": "Ambulatory Immunologic Endoscopic Procedure",
+        "confidence_score": 65.62
+    },
+    "Std Endocrine Dialysis Sess /NG-9032": {
+        "mapped_service": "Standard Endocrine Dialysis Session",
+        "confidence_score": 87.1
+    },
+    "Continuous Psych Rehabilitation Prog": {
+        "mapped_service": "Continuous Psychiatric Rehabilitation Programme",
+        "confidence_score": 86.75
+    },
+    "Advanced Rheum Lab Pnl": {
+        "mapped_service": "Advanced Rheumatologic Laboratory Panel",
+        "confidence_score": 72.13
+    },
+    "Ent Thtr Tm Spclst": {
+        "mapped_service": "Specialist Otolaryngologic Theatre Time",
+        "confidence_score": 56.14
+    },
+    "Ambulatory Immunologic Wd Bd Occ": {
+        "mapped_service": "Ambulatory Immunologic Ward Bed Occupancy",
+        "confidence_score": 87.67
+    },
+    "Support Interm Neurological Nutr": {
+        "mapped_service": "Intermittent Neurological Nutritional Support",
+        "confidence_score": 83.12
+    },
+    "Care Extended Ger Wound": {
+        "mapped_service": "Extended Geriatric Wound Care",
+        "confidence_score": 88.46
+    },
+    "Adv Metab Nursing Observation /NG-7035": {
+        "mapped_service": "Advanced Metabolic Nursing Observation",
+        "confidence_score": 86.57
+    },
+    "Intensive Gi Isolation Rm Occ": {
+        "mapped_service": "Intensive Gastrointestinal Isolation Room Occupancy",
+        "confidence_score": 72.5
+    },
+    "Cont Ent Telem Monit": {
+        "mapped_service": "Continuous Otolaryngologic Telemetry Monitoring",
+        "confidence_score": 50.75
+    },
+    "Std - Biop Proc": {
+        "mapped_service": "Standard Paediatric Biopsy Procedure",
+        "confidence_score": 50.98
+    },
+    "Programme Extended Vascular Rehab": {
+        "mapped_service": "Extended Vascular Rehabilitation Programme",
+        "confidence_score": 88.0
+    },
+    "Continuous - Obst Rehab Programme": {
+        "mapped_service": "Continuous Obstetric Rehabilitation Programme",
+        "confidence_score": 79.49
+    },
+    "Std Psychiatric Endosc Procedure /NG-5963": {
+        "mapped_service": "Standard Psychiatric Endoscopic Procedure",
+        "confidence_score": 87.67
+    },
+    "Specialist Neuro Recovery Room Occ": {
+        "mapped_service": "Specialist Neurological Recovery Room Occupancy",
+        "confidence_score": 83.95
+    },
+    "Preoperative - Immun Endoscopic Procedure": {
+        "mapped_service": "Preoperative Immunologic Endoscopic Procedure",
+        "confidence_score": 90.7
+    },
+    "Session Inpt Endo Dial": {
+        "mapped_service": "Inpatient Endocrine Dialysis Session",
+        "confidence_score": 75.86
+    },
+    "Ophth Radiother Fract Inpt": {
+        "mapped_service": "Inpatient Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 76.47
+    },
+    "Svc Rtn Gi Transfusion": {
+        "mapped_service": "Routine Dermatologic Transfusion Service",
+        "confidence_score": 67.74
+    },
+    "Supervised Msk Dialysis Sess": {
+        "mapped_service": "Supervised Musculoskeletal Dialysis Session",
+        "confidence_score": 78.87
+    },
+    "Interm - Diag Img /NG-6221": {
+        "mapped_service": "Inpatient Vascular Diagnostic Imaging",
+        "confidence_score": 51.85
+    },
+    "Obs Continuous Card Nursing /NG-8292": {
+        "mapped_service": "Continuous Cardiac Nursing Observation",
+        "confidence_score": 83.08
+    },
+    "Rtn Immunologic Wd Bed Occupancy": {
+        "mapped_service": "Routine Immunologic Ward Bed Occupancy",
+        "confidence_score": 91.43
+    },
+    "Std Pulmonary Dial Sess": {
+        "mapped_service": "Standard Pulmonary Dialysis Session",
+        "confidence_score": 79.31
+    },
+    "Vasc  Diagnostic Img": {
+        "mapped_service": "Inpatient Vascular Diagnostic Imaging",
+        "confidence_score": 67.86
+    },
+    "Fraction  Std Ent Radiotherapy": {
+        "mapped_service": "Emergency Renal Radiotherapy Fraction",
+        "confidence_score": 75.76
+    },
+    "Consult Outpt Immun /NG-3689": {
+        "mapped_service": "Outpatient Immunologic Consultation",
+        "confidence_score": 70.37
+    },
+    "Occupancy Advanced Card Recov Rm": {
+        "mapped_service": "Advanced Cardiac Recovery Room Occupancy",
+        "confidence_score": 88.89
+    },
+    "Pulm Wnd Cr Postop": {
+        "mapped_service": "Postoperative Pulmonary Wound Care",
+        "confidence_score": 69.23
+    },
+    "Intens Gi Isolation Room Occupancy /NG-9835": {
+        "mapped_service": "Intensive Gastrointestinal Isolation Room Occupancy",
+        "confidence_score": 80.0
+    },
+    "Preop Immun Endosc Proc": {
+        "mapped_service": "Preoperative Immunologic Endoscopic Procedure",
+        "confidence_score": 67.65
+    },
+    "Inpatient Pall Specimen Analysis /NG-4820": {
+        "mapped_service": "Inpatient Palliative Specimen Analysis",
+        "confidence_score": 91.43
+    },
+    "Outpt Radiother Fraction": {
+        "mapped_service": "Outpatient Metabolic Radiotherapy Fraction",
+        "confidence_score": 72.73
+    },
+    "Rtn Haem Inf Therapy": {
+        "mapped_service": "Routine Haematology Infusion Therapy",
+        "confidence_score": 71.43
+    },
+    "Extended Pall Laboratory Pnl": {
+        "mapped_service": "Extended Palliative Laboratory Panel",
+        "confidence_score": 87.5
+    },
+    "Inpatient  Ophth Radiother Fraction": {
+        "mapped_service": "Inpatient Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 89.47
+    },
+    "Ext - Pall Panel": {
+        "mapped_service": "Extended Palliative Laboratory Panel",
+        "confidence_score": 53.85
+    },
+    "Inpt Hep Physiotherapy Session": {
+        "mapped_service": "Inpatient Hepatic Physiotherapy Session",
+        "confidence_score": 86.96
+    },
+    "Spclst Otolaryngologic Thtr Tm": {
+        "mapped_service": "Specialist Otolaryngologic Theatre Time",
+        "confidence_score": 86.96
+    },
+    "Amb - Urol Img Interp": {
+        "mapped_service": "Ambulatory Urologic Imaging Interpretation",
+        "confidence_score": 60.32
+    },
+    "Observation Compr Infectious Nurs": {
+        "mapped_service": "Comprehensive Infectious Nursing Observation",
+        "confidence_score": 85.71
+    },
+    "Amb Immun Endosc Proc": {
+        "mapped_service": "Ambulatory Immunologic Endoscopic Procedure",
+        "confidence_score": 65.62
+    },
+    "Occ - Inpt Isol Rm /NG-2747": {
+        "mapped_service": "Inpatient Palliative Isolation Room Occupancy",
+        "confidence_score": 50.79
+    },
+    "Ren Radiotherapy Fract": {
+        "mapped_service": "Emergency Renal Radiotherapy Fraction",
+        "confidence_score": 74.58
+    },
+    "Preop Onc Consultation": {
+        "mapped_service": "Preoperative Oncology Consultation",
+        "confidence_score": 78.57
+    },
+    "Standard Endo Dial Sess": {
+        "mapped_service": "Standard Endocrine Dialysis Session",
+        "confidence_score": 79.31
+    },
+    "Interm Pulm Rehab Prog": {
+        "mapped_service": "Intermittent Pulmonary Rehabilitation Programme",
+        "confidence_score": 63.77
+    },
+    "Cr Focused Ent Wound": {
+        "mapped_service": "Focused Otolaryngologic Wound Care",
+        "confidence_score": 59.26
+    },
+    "Occ Beds Otolaryngologic Recovery Room /NG-2212": {
+        "mapped_service": "Bedside Otolaryngologic Recovery Room Occupancy",
+        "confidence_score": 89.41
+    },
+    "Infect Crit Cr Occ Rtn": {
+        "mapped_service": "Routine Infectious Critical Care Occupancy",
+        "confidence_score": 68.75
+    },
+    "Inpt - Ophth Radiother Fract": {
+        "mapped_service": "Inpatient Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 74.29
+    },
+    "Ren Radiother Fract Inpt": {
+        "mapped_service": "Inpatient Renal Radiotherapy Fraction",
+        "confidence_score": 78.69
+    },
+    "Imaging Interm Rheum Diagnostic": {
+        "mapped_service": "Intermittent Rheumatologic Diagnostic Imaging",
+        "confidence_score": 81.58
+    },
+    "Assisted  Urol Hm Vst": {
+        "mapped_service": "Assisted Urologic Home Visit",
+        "confidence_score": 83.33
+    },
+    "Compr Otolaryngologic Theatre Tm": {
+        "mapped_service": "Comprehensive Otolaryngologic Theatre Time",
+        "confidence_score": 86.49
+    },
+    "Vasc Diag Img Preop": {
+        "mapped_service": "Preoperative Vascular Diagnostic Imaging",
+        "confidence_score": 64.41
+    },
+    "Preoperative - Ger Vent Support /NG-6364": {
+        "mapped_service": "Preoperative Geriatric Ventilation Support",
+        "confidence_score": 79.45
+    },
+    "Ext Pall Lab Panel": {
+        "mapped_service": "Extended Palliative Laboratory Panel",
+        "confidence_score": 66.67
+    },
+    "Rtn Cardiac Specimen": {
+        "mapped_service": "Routine Cardiac Specimen Analysis",
+        "confidence_score": 75.47
+    },
+    "Ambulatory Card Hm Visit /NG-9268": {
+        "mapped_service": "Ambulatory Cardiac Home Visit",
+        "confidence_score": 90.57
+    },
+    "Advanced - Metab Nurs Obs": {
+        "mapped_service": "Advanced Metabolic Nursing Observation",
+        "confidence_score": 73.02
+    },
+    "Immun Wd Bd Occ Amb": {
+        "mapped_service": "Ambulatory Immunologic Ward Bed Occupancy",
+        "confidence_score": 63.33
+    },
+    "Cont Immun Theatre Time /NG-9315": {
+        "mapped_service": "Continuous Immunologic Theatre Time",
+        "confidence_score": 79.31
+    },
+    "Routine - Onc Discharge Plng": {
+        "mapped_service": "Routine Oncology Discharge Planning",
+        "confidence_score": 82.54
+    },
+    "Advanced Haem Physio Session": {
+        "mapped_service": "Advanced Haematology Physiotherapy Session",
+        "confidence_score": 80.0
+    },
+    "Rtn - Onc Discharge Plng": {
+        "mapped_service": "Routine Oncology Discharge Planning",
+        "confidence_score": 74.58
+    },
+    "Standard Paed Biopsy Procedure": {
+        "mapped_service": "Standard Paediatric Biopsy Procedure",
+        "confidence_score": 90.91
+    },
+    "Rtn Dermatologic Transfusion Svc": {
+        "mapped_service": "Routine Dermatologic Transfusion Service",
+        "confidence_score": 88.89
+    },
+    "Amb Psychiatric Dialysis Sess": {
+        "mapped_service": "Ambulatory Psychiatric Dialysis Session",
+        "confidence_score": 85.29
+    },
+    "Inpt Hepatic Session": {
+        "mapped_service": "Inpatient Hepatic Physiotherapy Session",
+        "confidence_score": 67.8
+    },
+    "Obs Metab Nursing": {
+        "mapped_service": "Advanced Metabolic Nursing Observation",
+        "confidence_score": 61.82
+    },
+    "Immun Endosc Proc Preop": {
+        "mapped_service": "Preoperative Immunologic Endoscopic Procedure",
+        "confidence_score": 67.65
+    },
+    "Ther Assisted Ger Infusion": {
+        "mapped_service": "Assisted Geriatric Infusion Therapy",
+        "confidence_score": 85.25
+    },
+    "Focused Orthopaedic Transp Svc": {
+        "mapped_service": "Focused Orthopaedic Transport Service",
+        "confidence_score": 89.55
+    },
+    "Adv Haem Physiotherapy Sess": {
+        "mapped_service": "Advanced Haematology Physiotherapy Session",
+        "confidence_score": 78.26
+    },
+    "Postop Pulmonary Wnd Care /NG-1729": {
+        "mapped_service": "Postoperative Pulmonary Wound Care",
+        "confidence_score": 84.75
+    },
+    "Cont Psych Rehab Programme": {
+        "mapped_service": "Continuous Psychiatric Rehabilitation Programme",
+        "confidence_score": 71.23
+    },
+    "Ophth Cs Conf Amb": {
+        "mapped_service": "Ambulatory Ophthalmic Case Conference",
+        "confidence_score": 51.85
+    },
+    "Beds Otolaryngologic Recovery Room Occ": {
+        "mapped_service": "Bedside Otolaryngologic Recovery Room Occupancy",
+        "confidence_score": 89.41
+    },
+    "Supervised Musculoskeletal Dialysis Sess /NG-6660": {
+        "mapped_service": "Supervised Musculoskeletal Dialysis Session",
+        "confidence_score": 96.39
+    },
+    "Compr - Otolaryngologic Rehab Prog": {
+        "mapped_service": "Comprehensive Otolaryngologic Rehabilitation Programme",
+        "confidence_score": 72.73
+    },
+    "Fract Std Otolaryngologic Radiotherapy": {
+        "mapped_service": "Standard Otolaryngologic Radiotherapy Fraction",
+        "confidence_score": 90.48
+    },
+    "Elect  Card Nutritional Supp": {
+        "mapped_service": "Elective Cardiac Nutritional Support",
+        "confidence_score": 85.71
+    },
+    "Continuous Otolaryngologic Telemetry Monit /NG-7391": {
+        "mapped_service": "Continuous Otolaryngologic Telemetry Monitoring",
+        "confidence_score": 94.38
+    },
+    "Routine - Gastrointestinal Transfusion Svc": {
+        "mapped_service": "Routine Gastrointestinal Transfusion Service",
+        "confidence_score": 93.02
+    },
+    "Asst Gastrointestinal Infusion Therapy": {
+        "mapped_service": "Assisted Gastrointestinal Infusion Therapy",
+        "confidence_score": 95.0
+    },
+    "Focused Ent Cr /NG-9962": {
+        "mapped_service": "Extended Geriatric Wound Care",
+        "confidence_score": 46.51
+    },
+    "Inpt - Hep Physio Sess /NG-1999": {
+        "mapped_service": "Inpatient Hepatic Physiotherapy Session",
+        "confidence_score": 65.57
+    },
+    "Proc Std Psychiatric Endosc /NG-2345": {
+        "mapped_service": "Standard Psychiatric Endoscopic Procedure",
+        "confidence_score": 79.41
+    },
+    "Ambulatory - Immunologic Wd Bed Occ /NG-8463": {
+        "mapped_service": "Ambulatory Immunologic Ward Bed Occupancy",
+        "confidence_score": 86.84
+    },
+    "Outpatient Metab Radiother Fraction": {
+        "mapped_service": "Outpatient Metabolic Radiotherapy Fraction",
+        "confidence_score": 90.91
+    },
+    "Amb Pulm Recov Rm Occupancy": {
+        "mapped_service": "Ambulatory Pulmonary Recovery Room Occupancy",
+        "confidence_score": 76.06
+    },
+    "Conf Emergency Derm Cs": {
+        "mapped_service": "Emergency Dermatologic Case Conference",
+        "confidence_score": 63.33
+    },
+    "Inpt - Ren Radiotherapy Fract": {
+        "mapped_service": "Inpatient Renal Radiotherapy Fraction",
+        "confidence_score": 81.82
+    },
+    "Sess Ambulatory Ophth Dialysis": {
+        "mapped_service": "Ambulatory Ophthalmic Dialysis Session",
+        "confidence_score": 88.24
+    },
+    "Session Beds Psychiatric Dialysis": {
+        "mapped_service": "Bedside Psychiatric Dialysis Session",
+        "confidence_score": 95.65
+    },
+    "Preop Geriatric Vent Supp": {
+        "mapped_service": "Preoperative Geriatric Ventilation Support",
+        "confidence_score": 74.63
+    },
+    "Postop Critical Cr Occupancy": {
+        "mapped_service": "Postoperative Metabolic Critical Care Occupancy",
+        "confidence_score": 74.67
+    },
+    "Preop Oncology Consult /NG-2424": {
+        "mapped_service": "Preoperative Oncology Consultation",
+        "confidence_score": 78.57
+    },
+    "Img Preop Vascular Diag": {
+        "mapped_service": "Preoperative Vascular Diagnostic Imaging",
+        "confidence_score": 73.02
+    },
+    "Session Specialist Hep Physiotherapy": {
+        "mapped_service": "Specialist Hepatic Physiotherapy Session",
+        "confidence_score": 94.74
+    },
+    "Svc Routine Derm Transf /NG-2484": {
+        "mapped_service": "Routine Dermatologic Transfusion Service",
+        "confidence_score": 73.02
+    },
+    "Inpatient Ophth Transport Svc": {
+        "mapped_service": "Inpatient Ophthalmic Transport Service",
+        "confidence_score": 86.57
+    },
+    "Supp Interm Neuro Nutritional /NG-6247": {
+        "mapped_service": "Intermittent Neurological Nutritional Support",
+        "confidence_score": 78.38
+    },
+    "Psych Rehab Prog Rtn": {
+        "mapped_service": "Routine Psychiatric Rehabilitation Programme",
+        "confidence_score": 62.5
+    },
+    "Ther Asst Gi Inf": {
+        "mapped_service": "Assisted Geriatric Infusion Therapy",
+        "confidence_score": 62.75
+    },
+    "Extended Haem Anaes Admin": {
+        "mapped_service": "Extended Geriatric Wound Care",
+        "confidence_score": 48.15
+    },
+    "Beds Psych Session": {
+        "mapped_service": "Bedside Psychiatric Dialysis Session",
+        "confidence_score": 66.67
+    },
+    "Therapy - Assisted Ger Infusion /NG-4561": {
+        "mapped_service": "Assisted Geriatric Infusion Therapy",
+        "confidence_score": 87.88
+    },
+    "Inpatient Hepatic Physio Sess": {
+        "mapped_service": "Inpatient Hepatic Physiotherapy Session",
+        "confidence_score": 85.29
+    },
+    "Spclst  Derm Transp Svc /NG-4716": {
+        "mapped_service": "Specialist Dermatologic Transport Service",
+        "confidence_score": 57.14
+    },
+    "Cont Vasc Pharmaceutical Disp": {
+        "mapped_service": "Continuous Vascular Pharmaceutical Dispensing",
+        "confidence_score": 78.38
+    },
+    "Compr Infectious Nursing Observation": {
+        "mapped_service": "Comprehensive Infectious Nursing Observation",
+        "confidence_score": 90.0
+    },
+    "Preop Otolaryngologic Steril Svc": {
+        "mapped_service": "Supervised Otolaryngologic Sterilisation Service",
+        "confidence_score": 70.0
+    },
+    "Adv Metabolic Anaes Administration": {
+        "mapped_service": "Advanced Metabolic Anaesthesia Administration",
+        "confidence_score": 86.08
+    },
+    "Img Inpatient Diag": {
+        "mapped_service": "Inpatient Vascular Diagnostic Imaging",
+        "confidence_score": 65.45
+    },
+    "Cr Foc Otolaryngologic Wound": {
+        "mapped_service": "Focused Otolaryngologic Wound Care",
+        "confidence_score": 90.32
+    },
+    "Emer Orthopaedic Consultation": {
+        "mapped_service": "Emergency Orthopaedic Consultation",
+        "confidence_score": 92.06
+    },
+    "Comprehensive - Onc Nurs Obs": {
+        "mapped_service": "Comprehensive Oncology Nursing Observation",
+        "confidence_score": 74.29
+    },
+    "Cont - Psychiatric Rehab Prog /NG-1498": {
+        "mapped_service": "Continuous Psychiatric Rehabilitation Programme",
+        "confidence_score": 71.05
+    },
+    "Ambulatory Urol Imaging Interpretation": {
+        "mapped_service": "Ambulatory Urologic Imaging Interpretation",
+        "confidence_score": 95.0
+    },
+    "Rtn Pall Crit Cr Occupancy": {
+        "mapped_service": "Routine Palliative Critical Care Occupancy",
+        "confidence_score": 76.47
+    },
+    "Infect Crit Cr Occ Adv": {
+        "mapped_service": "Advanced Infectious Critical Care Occupancy",
+        "confidence_score": 67.69
+    },
+    "Conference Intens Ophth Cs": {
+        "mapped_service": "Intensive Ophthalmic Case Conference",
+        "confidence_score": 74.19
+    },
+    "Extended Vasc Rehab Prog": {
+        "mapped_service": "Extended Vascular Rehabilitation Programme",
+        "confidence_score": 72.73
+    },
+    "Svc Extended Ren Transp": {
+        "mapped_service": "Extended Renal Transport Service",
+        "confidence_score": 83.64
+    },
+    "Inpt - Pall Specimen Analysis /NG-1173": {
+        "mapped_service": "Inpatient Palliative Specimen Analysis",
+        "confidence_score": 80.6
+    },
+    "Cont Psychiatric Rehabilitation Programme": {
+        "mapped_service": "Continuous Psychiatric Rehabilitation Programme",
+        "confidence_score": 93.18
+    },
+    "Interm Rheum Diagnostic Img /NG-6790": {
+        "mapped_service": "Intermittent Rheumatologic Diagnostic Imaging",
+        "confidence_score": 75.0
+    },
+    "Spclst Hepatic Physiotherapy Sess": {
+        "mapped_service": "Specialist Hepatic Physiotherapy Session",
+        "confidence_score": 90.41
+    },
+    "Preop Oncology Consult /NG-7321": {
+        "mapped_service": "Preoperative Oncology Consultation",
+        "confidence_score": 78.57
+    },
+    "Outpatient - Metabolic Radiother Fract /NG-9469": {
+        "mapped_service": "Outpatient Metabolic Radiotherapy Fraction",
+        "confidence_score": 90.0
+    },
+    "Ext Palliative Laboratory Pnl": {
+        "mapped_service": "Extended Palliative Laboratory Panel",
+        "confidence_score": 89.23
+    },
+    "Spclst Ent Thtr Time": {
+        "mapped_service": "Specialist Otolaryngologic Theatre Time",
+        "confidence_score": 61.02
+    },
+    "Care Cont Musculoskeletal Wnd /NG-8330": {
+        "mapped_service": "Continuous Musculoskeletal Wound Care",
+        "confidence_score": 87.88
+    },
+    "Interm Derm Transfusion Service /NG-8116": {
+        "mapped_service": "Intermittent Dermatologic Transfusion Service",
+        "confidence_score": 81.58
+    },
+    "Inpatient Ophth Transp Svc": {
+        "mapped_service": "Inpatient Ophthalmic Transport Service",
+        "confidence_score": 81.25
+    },
+    "Supervised Msk Dial Session": {
+        "mapped_service": "Supervised Musculoskeletal Dialysis Session",
+        "confidence_score": 77.14
+    },
+    "Amb Infectious Hm Visit": {
+        "mapped_service": "Ambulatory Infectious Home Visit",
+        "confidence_score": 83.64
+    },
+    "Inpatient - Ophth Transport": {
+        "mapped_service": "Inpatient Ophthalmic Transport Service",
+        "confidence_score": 76.92
+    },
+    "Std Paediatric Proc": {
+        "mapped_service": "Standard Paediatric Biopsy Procedure",
+        "confidence_score": 69.09
+    },
+    "Elect Cardiac Nutr Supp": {
+        "mapped_service": "Elective Cardiac Nutritional Support",
+        "confidence_score": 77.97
+    },
+    "Advanced Haem Physiotherapy Session": {
+        "mapped_service": "Advanced Haematology Physiotherapy Session",
+        "confidence_score": 90.91
+    },
+    "Supervised - Ent Steril Svc /NG-7318": {
+        "mapped_service": "Supervised Otolaryngologic Sterilisation Service",
+        "confidence_score": 50.67
+    },
+    "Elective - Pulm Nutritional Supp": {
+        "mapped_service": "Elective Pulmonary Nutritional Support",
+        "confidence_score": 85.71
+    },
+    "Preop Endo Physio Sess": {
+        "mapped_service": "Preoperative Endocrine Physiotherapy Session",
+        "confidence_score": 66.67
+    },
+    "Inpt Palliative Isolation Rm Occupancy": {
+        "mapped_service": "Inpatient Palliative Isolation Room Occupancy",
+        "confidence_score": 91.57
+    },
+    "Postoperative Ophth Radiother Fract": {
+        "mapped_service": "Postoperative Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 86.42
+    },
+    "Adv Metabolic Anaesthesia Admin": {
+        "mapped_service": "Advanced Metabolic Anaesthesia Administration",
+        "confidence_score": 81.58
+    },
+    "Focused Otolaryngologic Wound Cr": {
+        "mapped_service": "Focused Otolaryngologic Wound Care",
+        "confidence_score": 96.97
+    },
+    "Occ Beds Otolaryngologic Recov Room": {
+        "mapped_service": "Bedside Otolaryngologic Recovery Room Occupancy",
+        "confidence_score": 85.37
+    },
+    "Ambulatory  Immunologic Wd Bd Occupancy": {
+        "mapped_service": "Ambulatory Immunologic Ward Bed Occupancy",
+        "confidence_score": 96.2
+    },
+    "Proc Preoperative Immunologic Endoscopic /NG-1751": {
+        "mapped_service": "Preoperative Immunologic Endoscopic Procedure",
+        "confidence_score": 94.12
+    },
+    "Interm Rehab Programme": {
+        "mapped_service": "Intermittent Pulmonary Rehabilitation Programme",
+        "confidence_score": 63.77
+    },
+    "Supp Geriatric Vent /NG-9418": {
+        "mapped_service": "Preoperative Geriatric Ventilation Support",
+        "confidence_score": 62.3
+    },
+    "Anly Inpatient Palliative Specimen": {
+        "mapped_service": "Inpatient Palliative Specimen Analysis",
+        "confidence_score": 94.44
+    },
+    "Therapy Rtn Haem Infusion /NG-2021": {
+        "mapped_service": "Routine Haematology Infusion Therapy",
+        "confidence_score": 81.97
+    },
+    "Inpt Palliative Isol Room Occupancy": {
+        "mapped_service": "Inpatient Palliative Isolation Room Occupancy",
+        "confidence_score": 87.5
+    },
+    "Ren Radiother Fract Emer": {
+        "mapped_service": "Emergency Renal Radiotherapy Fraction",
+        "confidence_score": 78.69
+    },
+    "Spclst Otolaryngologic Pharm Disp": {
+        "mapped_service": "Specialist Otolaryngologic Pharmaceutical Dispensing",
+        "confidence_score": 77.65
+    },
+    "Ambulatory Card Home Vst": {
+        "mapped_service": "Ambulatory Cardiac Home Visit",
+        "confidence_score": 90.57
+    },
+    "Rtn - Psychiatric Rehabilitation Prog": {
+        "mapped_service": "Routine Psychiatric Rehabilitation Programme",
+        "confidence_score": 86.42
+    },
+    "Continuous Wnd Care": {
+        "mapped_service": "Continuous Pulmonary Wound Care",
+        "confidence_score": 76.0
+    },
+    "Emer Orthopaedic Rehabilitation Prog": {
+        "mapped_service": "Emergency Orthopaedic Rehabilitation Programme",
+        "confidence_score": 87.8
+    },
+    "Cont Pulmonary Wnd Cr": {
+        "mapped_service": "Continuous Pulmonary Wound Care",
+        "confidence_score": 69.23
+    },
+    "Supv Ent Steril Svc": {
+        "mapped_service": "Elective Cardiac Nutritional Support",
+        "confidence_score": 40.0
+    },
+    "Specialist Ent Pharmaceutical Dispensing": {
+        "mapped_service": "Specialist Otolaryngologic Pharmaceutical Dispensing",
+        "confidence_score": 82.61
+    },
+    "Specialist Paediatric Biop Proc /NG-5601": {
+        "mapped_service": "Specialist Paediatric Biopsy Procedure",
+        "confidence_score": 89.86
+    },
+    "Consultation Adv": {
+        "mapped_service": "Advanced Neurological Consultation",
+        "confidence_score": 64.0
+    },
+    "Compr Infectious Nursing": {
+        "mapped_service": "Comprehensive Infectious Nursing Observation",
+        "confidence_score": 70.59
+    },
+    "Admin Advanced Metabolic Anaes /NG-1114": {
+        "mapped_service": "Advanced Metabolic Anaesthesia Administration",
+        "confidence_score": 80.0
+    },
+    "Sess Inpatient Endo Dialysis": {
+        "mapped_service": "Inpatient Endocrine Dialysis Session",
+        "confidence_score": 87.5
+    },
+    "Compr Ent Thtr Time": {
+        "mapped_service": "Comprehensive Otolaryngologic Theatre Time",
+        "confidence_score": 55.74
+    },
+    "Proc - Amb Immun Endoscopic /NG-3634": {
+        "mapped_service": "Ambulatory Immunologic Endoscopic Procedure",
+        "confidence_score": 71.43
+    },
+    "Routine  Biop Procedure": {
+        "mapped_service": "Routine Urologic Biopsy Procedure",
+        "confidence_score": 80.0
+    },
+    "Continuous - Card Nursing Observation": {
+        "mapped_service": "Continuous Cardiac Nursing Observation",
+        "confidence_score": 93.33
+    },
+    "Beds Psych Dialysis Sess": {
+        "mapped_service": "Bedside Psychiatric Dialysis Session",
+        "confidence_score": 80.0
+    },
+    "Compr - Urol Transp Svc": {
+        "mapped_service": "Comprehensive Urologic Transport Service",
+        "confidence_score": 66.67
+    },
+    "Psych Dial Sess Beds": {
+        "mapped_service": "Bedside Psychiatric Dialysis Session",
+        "confidence_score": 71.43
+    },
+    "Compr Psychiatric Transf Service /NG-8081": {
+        "mapped_service": "Comprehensive Psychiatric Transfusion Service",
+        "confidence_score": 83.12
+    },
+    "Care Preop Ren Wound": {
+        "mapped_service": "Preoperative Renal Wound Care",
+        "confidence_score": 81.63
+    },
+    "Session Std Endocrine Dialysis": {
+        "mapped_service": "Standard Endocrine Dialysis Session",
+        "confidence_score": 92.31
+    },
+    "Endo Dial Sess Inpt": {
+        "mapped_service": "Inpatient Endocrine Dialysis Session",
+        "confidence_score": 69.09
+    },
+    "Advanced Infectious Crit Care Occ /NG-3293": {
+        "mapped_service": "Advanced Infectious Critical Care Occupancy",
+        "confidence_score": 86.84
+    },
+    "Inpt - Ophth Radiother Fract /NG-2420": {
+        "mapped_service": "Inpatient Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 74.29
+    },
+    "Specialist Paediatric Biop Procedure /NG-2447": {
+        "mapped_service": "Specialist Paediatric Biopsy Procedure",
+        "confidence_score": 97.3
+    },
+    "Img Preop Vasc Diagnostic": {
+        "mapped_service": "Preoperative Vascular Diagnostic Imaging",
+        "confidence_score": 76.92
+    },
+    "Emergency Dermatologic Cs Conference": {
+        "mapped_service": "Emergency Dermatologic Case Conference",
+        "confidence_score": 89.19
+    },
+    "Amb Msk Wd Bd Occupancy /NG-3394": {
+        "mapped_service": "Ambulatory Musculoskeletal Ward Bed Occupancy",
+        "confidence_score": 67.65
+    },
+    "Occ - Postoperative Metabolic Critical Care": {
+        "mapped_service": "Postoperative Metabolic Critical Care Occupancy",
+        "confidence_score": 91.11
+    },
+    "Preoperative - Ren Wnd Cr": {
+        "mapped_service": "Preoperative Renal Wound Care",
+        "confidence_score": 85.19
+    },
+    "Std Geriatric Nutritional Supp": {
+        "mapped_service": "Standard Geriatric Nutritional Support",
+        "confidence_score": 88.24
+    },
+    "Svc Intermittent Derm Transf /NG-9194": {
+        "mapped_service": "Intermittent Dermatologic Transfusion Service",
+        "confidence_score": 76.71
+    },
+    "Conference Amb Ophth Case": {
+        "mapped_service": "Ambulatory Ophthalmic Case Conference",
+        "confidence_score": 80.65
+    },
+    "Extended Ren Transport Service": {
+        "mapped_service": "Extended Renal Transport Service",
+        "confidence_score": 96.77
+    },
+    "Emergency Ren Radiotherapy Fract": {
+        "mapped_service": "Emergency Renal Radiotherapy Fraction",
+        "confidence_score": 92.75
+    },
+    "Session - Std Pulmonary Dial": {
+        "mapped_service": "Standard Pulmonary Dialysis Session",
+        "confidence_score": 82.54
+    },
+    "Std Endocrine Endosc Procedure /NG-7684": {
+        "mapped_service": "Standard Endocrine Endoscopic Procedure",
+        "confidence_score": 86.96
+    },
+    "Inpt Musculoskeletal Wd Bed Occupancy /NG-8170": {
+        "mapped_service": "Inpatient Musculoskeletal Ward Bed Occupancy",
+        "confidence_score": 91.36
+    },
+    "Routine Pall Critical Care Occupancy /NG-1990": {
+        "mapped_service": "Routine Palliative Critical Care Occupancy",
+        "confidence_score": 92.31
+    },
+    "Postop Ophthalmic Radiotherapy Fract": {
+        "mapped_service": "Postoperative Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 87.8
+    },
+    "Cont Vasc Pharmaceutical Dispensing": {
+        "mapped_service": "Continuous Vascular Pharmaceutical Dispensing",
+        "confidence_score": 87.5
+    },
+    "Amb - Ophthalmic Cs Conf": {
+        "mapped_service": "Ambulatory Ophthalmic Case Conference",
+        "confidence_score": 62.3
+    },
+    "Ext - Vascular Rehabilitation Prog": {
+        "mapped_service": "Extended Vascular Rehabilitation Programme",
+        "confidence_score": 84.21
+    },
+    "Occupancy  Extended Metabolic Isol Rm /NG-3709": {
+        "mapped_service": "Extended Metabolic Isolation Room Occupancy",
+        "confidence_score": 91.14
+    },
+    "Derm Transf Svc Interm": {
+        "mapped_service": "Intermittent Dermatologic Transfusion Service",
+        "confidence_score": 65.67
+    },
+    "Emer Ortho": {
+        "mapped_service": "Emergency Orthopaedic Consultation",
+        "confidence_score": 45.45
+    },
+    "Assisted - Pulm Thtr Tm /NG-9868": {
+        "mapped_service": "Assisted Pulmonary Theatre Time",
+        "confidence_score": 77.78
+    },
+    "Preoperative Otolaryngologic Steril Service": {
+        "mapped_service": "Preoperative Otolaryngologic Sterilisation Service",
+        "confidence_score": 92.47
+    },
+    "Postoperative Pulm Wnd Cr": {
+        "mapped_service": "Postoperative Pulmonary Wound Care",
+        "confidence_score": 84.75
+    },
+    "Amb Card Home Vst": {
+        "mapped_service": "Ambulatory Cardiac Home Visit",
+        "confidence_score": 73.91
+    },
+    "Supervised Ent Steril Service": {
+        "mapped_service": "Supervised Otolaryngologic Sterilisation Service",
+        "confidence_score": 70.13
+    },
+    "Rtn - Urol Biop Procedure": {
+        "mapped_service": "Routine Urologic Biopsy Procedure",
+        "confidence_score": 79.31
+    },
+    "Inpt Ophth Transport Svc": {
+        "mapped_service": "Inpatient Ophthalmic Transport Service",
+        "confidence_score": 77.42
+    },
+    "Psych Dial Sess Amb": {
+        "mapped_service": "Ambulatory Psychiatric Dialysis Session",
+        "confidence_score": 65.52
+    },
+    "Hep Physio Sess Spclst": {
+        "mapped_service": "Specialist Hepatic Physiotherapy Session",
+        "confidence_score": 70.97
+    },
+    "Care Focused Ent Wnd": {
+        "mapped_service": "Focused Otolaryngologic Wound Care",
+        "confidence_score": 59.26
+    },
+    "Advanced Neuro Consult": {
+        "mapped_service": "Advanced Neurological Consultation",
+        "confidence_score": 78.57
+    },
+    "Cr Cont Wnd": {
+        "mapped_service": "Continuous Pulmonary Wound Care",
+        "confidence_score": 47.62
+    },
+    "Outpt - Immun Consultation /NG-3299": {
+        "mapped_service": "Outpatient Immunologic Consultation",
+        "confidence_score": 78.69
+    },
+    "Supv Ren Isol Rm Occupancy": {
+        "mapped_service": "Supervised Renal Isolation Room Occupancy",
+        "confidence_score": 77.61
+    },
+    "Assisted - Infect Disch Planning /NG-6257": {
+        "mapped_service": "Assisted Infectious Discharge Planning",
+        "confidence_score": 85.71
+    },
+    "Psychiatric Rehab Programme /NG-8199": {
+        "mapped_service": "Routine Psychiatric Rehabilitation Programme",
+        "confidence_score": 76.06
+    },
+    "Bedside Pulm Biopsy Proc": {
+        "mapped_service": "Bedside Pulmonary Biopsy Procedure",
+        "confidence_score": 82.76
+    },
+    "Assisted Gi Inf Ther /NG-8862": {
+        "mapped_service": "Assisted Geriatric Infusion Therapy",
+        "confidence_score": 72.73
+    },
+    "Session Std Pulmonary Dialysis": {
+        "mapped_service": "Standard Pulmonary Dialysis Session",
+        "confidence_score": 92.31
+    },
+    "Rtn - Transf Svc": {
+        "mapped_service": "Extended Renal Transport Service",
+        "confidence_score": 54.17
+    },
+    "Continuous Ent Telem Monit": {
+        "mapped_service": "Continuous Otolaryngologic Telemetry Monitoring",
+        "confidence_score": 63.01
+    },
+    "Spclst Hep Physio Session": {
+        "mapped_service": "Specialist Hepatic Physiotherapy Session",
+        "confidence_score": 76.92
+    },
+    "Emer - Ortho Consultation": {
+        "mapped_service": "Emergency Orthopaedic Consultation",
+        "confidence_score": 77.97
+    },
+    "Svc Interm Transf": {
+        "mapped_service": "Intermittent Dermatologic Transfusion Service",
+        "confidence_score": 54.84
+    },
+    "Ger Nutr Support /NG-2366": {
+        "mapped_service": "Standard Geriatric Nutritional Support",
+        "confidence_score": 59.26
+    },
+    "Fract Std Ent": {
+        "mapped_service": "Emergency Renal Radiotherapy Fraction",
+        "confidence_score": 40.0
+    },
+    "Time Asst Pulm Theatre": {
+        "mapped_service": "Assisted Pulmonary Theatre Time",
+        "confidence_score": 83.02
+    },
+    "Ambulatory Musculoskeletal Wd Bd Occ": {
+        "mapped_service": "Ambulatory Musculoskeletal Ward Bed Occupancy",
+        "confidence_score": 88.89
+    },
+    "Postoperative - Ophth Radiother Fract /NG-1408": {
+        "mapped_service": "Postoperative Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 84.34
+    },
+    "Preoperative Endocrine Physio Sess": {
+        "mapped_service": "Preoperative Endocrine Physiotherapy Session",
+        "confidence_score": 87.18
+    },
+    "Interm Neuro Nutr Supp /NG-9593": {
+        "mapped_service": "Intermittent Neurological Nutritional Support",
+        "confidence_score": 65.67
+    },
+    "Bedside Pulmonary Biop Proc": {
+        "mapped_service": "Bedside Pulmonary Biopsy Procedure",
+        "confidence_score": 88.52
+    },
+    "Rtn Infect Crit Cr Occupancy": {
+        "mapped_service": "Routine Infectious Critical Care Occupancy",
+        "confidence_score": 80.0
+    },
+    "Assisted Infect Disch Planning /NG-1542": {
+        "mapped_service": "Assisted Infectious Discharge Planning",
+        "confidence_score": 88.24
+    },
+    "Comprehensive Oncology Nurs Obs": {
+        "mapped_service": "Comprehensive Oncology Nursing Observation",
+        "confidence_score": 84.93
+    },
+    "Fraction Emergency Ren Radiotherapy": {
+        "mapped_service": "Emergency Renal Radiotherapy Fraction",
+        "confidence_score": 97.22
+    },
+    "Inpatient - Vasc Diagnostic Img": {
+        "mapped_service": "Inpatient Vascular Diagnostic Imaging",
+        "confidence_score": 85.29
+    },
+    "Conference Amb Ophth Cs /NG-9862": {
+        "mapped_service": "Ambulatory Ophthalmic Case Conference",
+        "confidence_score": 66.67
+    },
+    "Foc - Ortho Transp Service": {
+        "mapped_service": "Focused Orthopaedic Transport Service",
+        "confidence_score": 76.19
+    },
+    "Comprehensive Onc Nurs Observation": {
+        "mapped_service": "Comprehensive Oncology Nursing Observation",
+        "confidence_score": 89.47
+    },
+    "Fract Inpt Ophthalmic Radiotherapy /NG-8037": {
+        "mapped_service": "Inpatient Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 89.47
+    },
+    "Comprehensive Otolaryngologic Thtr Time": {
+        "mapped_service": "Comprehensive Otolaryngologic Theatre Time",
+        "confidence_score": 96.3
+    },
+    "Compr Urologic Transp Service": {
+        "mapped_service": "Comprehensive Urologic Transport Service",
+        "confidence_score": 84.06
+    },
+    "Programme  Rtn Psych Rehab /NG-3241": {
+        "mapped_service": "Routine Psychiatric Rehabilitation Programme",
+        "confidence_score": 72.46
+    },
+    "Elect - Card Supp": {
+        "mapped_service": "Elective Cardiac Nutritional Support",
+        "confidence_score": 56.6
+    },
+    "Rtn Palliative Critical Cr Occ": {
+        "mapped_service": "Routine Palliative Critical Care Occupancy",
+        "confidence_score": 83.33
+    },
+    "Pulmonary - Biopsy Proc": {
+        "mapped_service": "Bedside Pulmonary Biopsy Procedure",
+        "confidence_score": 77.19
+    },
+    "Std Psychiatric Endoscopic Procedure /NG-6086": {
+        "mapped_service": "Standard Psychiatric Endoscopic Procedure",
+        "confidence_score": 93.51
+    },
+    "Outpt Immun Consult /NG-9519": {
+        "mapped_service": "Outpatient Immunologic Consultation",
+        "confidence_score": 70.37
+    },
+    "Postoperative - Metab Crit Cr Occupancy": {
+        "mapped_service": "Postoperative Metabolic Critical Care Occupancy",
+        "confidence_score": 86.05
+    },
+    "Sess Ambulatory Psych Dialysis /NG-7178": {
+        "mapped_service": "Ambulatory Psychiatric Dialysis Session",
+        "confidence_score": 86.96
+    },
+    "Ambulatory Endosc Procedure /NG-8034": {
+        "mapped_service": "Ambulatory Immunologic Endoscopic Procedure",
+        "confidence_score": 77.14
+    },
+    "Spclst - Ent Thtr Tm /NG-7710": {
+        "mapped_service": "Specialist Otolaryngologic Theatre Time",
+        "confidence_score": 54.24
+    },
+    "Extended Metab Isolation Room Occupancy": {
+        "mapped_service": "Extended Metabolic Isolation Room Occupancy",
+        "confidence_score": 95.12
+    },
+    "Specialist Paed Biop Proc": {
+        "mapped_service": "Specialist Paediatric Biopsy Procedure",
+        "confidence_score": 79.37
+    },
+    "Rtn Palliative Critical Cr Occupancy": {
+        "mapped_service": "Routine Palliative Critical Care Occupancy",
+        "confidence_score": 92.31
+    },
+    "Inpt Hepatic Physio Session /NG-3220": {
+        "mapped_service": "Inpatient Hepatic Physiotherapy Session",
+        "confidence_score": 81.82
+    },
+    "Outpt Immun Consultation": {
+        "mapped_service": "Outpatient Immunologic Consultation",
+        "confidence_score": 81.36
+    },
+    "Endo Dial Sess Std": {
+        "mapped_service": "Standard Endocrine Dialysis Session",
+        "confidence_score": 67.92
+    },
+    "Obs Continuous Card Nurs": {
+        "mapped_service": "Continuous Cardiac Nursing Observation",
+        "confidence_score": 77.42
+    },
+    "Asst Pulmonary Theatre Time /NG-2448": {
+        "mapped_service": "Assisted Pulmonary Theatre Time",
+        "confidence_score": 93.1
+    },
+    "Cont Msk Wound Cr": {
+        "mapped_service": "Continuous Musculoskeletal Wound Care",
+        "confidence_score": 51.85
+    },
+    "Std Endocrine Endosc Proc": {
+        "mapped_service": "Standard Endocrine Endoscopic Procedure",
+        "confidence_score": 78.12
+    },
+    "Pulm Wnd Cr Cont": {
+        "mapped_service": "Continuous Pulmonary Wound Care",
+        "confidence_score": 55.32
+    },
+    "Specialist  Neurological Recovery Rm Occ": {
+        "mapped_service": "Specialist Neurological Recovery Room Occupancy",
+        "confidence_score": 90.7
+    },
+    "Occ Inpatient Palliative Isolation Rm": {
+        "mapped_service": "Inpatient Palliative Isolation Room Occupancy",
+        "confidence_score": 90.24
+    },
+    "Advanced  Infect Crit Cr": {
+        "mapped_service": "Advanced Infectious Critical Care Occupancy",
+        "confidence_score": 69.7
+    },
+    "Rtn Immunologic Ward Bd Occ": {
+        "mapped_service": "Routine Immunologic Ward Bed Occupancy",
+        "confidence_score": 83.08
+    },
+    "Supervised  Ren Isol Room Occ": {
+        "mapped_service": "Supervised Renal Isolation Room Occupancy",
+        "confidence_score": 81.16
+    },
+    "Inpt Endo Session": {
+        "mapped_service": "Inpatient Endocrine Dialysis Session",
+        "confidence_score": 64.15
+    },
+    "Rtn Gi Svc /NG-4995": {
+        "mapped_service": "Routine Cardiac Specimen Analysis",
+        "confidence_score": 37.21
+    },
+    "Ambulatory Ophth Dial Sess": {
+        "mapped_service": "Ambulatory Ophthalmic Dialysis Session",
+        "confidence_score": 81.25
+    },
+    "Programme Continuous Obst Rehab": {
+        "mapped_service": "Continuous Obstetric Rehabilitation Programme",
+        "confidence_score": 81.58
+    },
+    "Preop Geriatric Ventilation Support /NG-1168": {
+        "mapped_service": "Preoperative Geriatric Ventilation Support",
+        "confidence_score": 90.91
+    },
+    "Ambulatory Msk Ward Bd Occ /NG-7929": {
+        "mapped_service": "Ambulatory Musculoskeletal Ward Bed Occupancy",
+        "confidence_score": 73.24
+    },
+    "Supv Isol Rm Occupancy": {
+        "mapped_service": "Supervised Renal Isolation Room Occupancy",
+        "confidence_score": 69.84
+    },
+    "Visit Cardiac Hm": {
+        "mapped_service": "Ambulatory Cardiac Home Visit",
+        "confidence_score": 71.11
+    },
+    "Preoperative Ent Steril Svc": {
+        "mapped_service": "Preoperative Renal Wound Care",
+        "confidence_score": 60.71
+    },
+    "Beds Pulmonary Biop Proc /NG-6360": {
+        "mapped_service": "Bedside Pulmonary Biopsy Procedure",
+        "confidence_score": 82.76
+    },
+    "Img Inpatient Vascular Diagnostic": {
+        "mapped_service": "Inpatient Vascular Diagnostic Imaging",
+        "confidence_score": 94.29
+    },
+    "Plng Rtn Oncology Discharge": {
+        "mapped_service": "Routine Oncology Discharge Planning",
+        "confidence_score": 87.1
+    },
+    "Intensive Ger Nutr Supp /NG-4079": {
+        "mapped_service": "Intensive Geriatric Nutritional Support",
+        "confidence_score": 74.19
+    },
+    "Support Intens Geriatric Nutritional": {
+        "mapped_service": "Intensive Geriatric Nutritional Support",
+        "confidence_score": 96.0
+    },
+    "Session  Interm Hep Dial": {
+        "mapped_service": "Inpatient Endocrine Dialysis Session",
+        "confidence_score": 64.41
+    },
+    "Adv Neuro Consultation /NG-3672": {
+        "mapped_service": "Advanced Neurological Consultation",
+        "confidence_score": 78.57
+    },
+    "Inpt Msk Wd Bed Occ": {
+        "mapped_service": "Inpatient Musculoskeletal Ward Bed Occupancy",
+        "confidence_score": 60.32
+    },
+    "Procedure Routine Urol Biopsy": {
+        "mapped_service": "Routine Urologic Biopsy Procedure",
+        "confidence_score": 93.55
+    },
+    "Inpatient Ren Radiother Fraction": {
+        "mapped_service": "Inpatient Renal Radiotherapy Fraction",
+        "confidence_score": 92.75
+    },
+    "Sess Amb Psych Dial": {
+        "mapped_service": "Ambulatory Psychiatric Dialysis Session",
+        "confidence_score": 65.52
+    },
+    "Cont - Pulmonary Wnd Cr /NG-2407": {
+        "mapped_service": "Continuous Pulmonary Wound Care",
+        "confidence_score": 70.37
+    },
+    "Vasc Diag Img Inpt": {
+        "mapped_service": "Inpatient Vascular Diagnostic Imaging",
+        "confidence_score": 65.45
+    },
+    "Fract Emergency Ren Radiother": {
+        "mapped_service": "Emergency Renal Radiotherapy Fraction",
+        "confidence_score": 87.88
+    },
+    "Monit Cont Ent Telemetry /NG-2024": {
+        "mapped_service": "Continuous Otolaryngologic Telemetry Monitoring",
+        "confidence_score": 59.15
+    },
+    "Occupancy Postop Metabolic Crit Cr": {
+        "mapped_service": "Postoperative Metabolic Critical Care Occupancy",
+        "confidence_score": 83.95
+    },
+    "Asst - Gi Inf Therapy /NG-1139": {
+        "mapped_service": "Assisted Geriatric Infusion Therapy",
+        "confidence_score": 67.86
+    },
+    "Intens Ger Nutr Support": {
+        "mapped_service": "Intensive Geriatric Nutritional Support",
+        "confidence_score": 74.19
+    },
+    "Session Inpatient Endo Dial": {
+        "mapped_service": "Inpatient Endocrine Dialysis Session",
+        "confidence_score": 85.71
+    },
+    "Ext Vasc Rehabilitation Prog": {
+        "mapped_service": "Extended Vascular Rehabilitation Programme",
+        "confidence_score": 80.0
+    },
+    "Ger Nutr Supp Std": {
+        "mapped_service": "Standard Geriatric Nutritional Support",
+        "confidence_score": 61.82
+    },
+    "Compr Urologic Transport Svc": {
+        "mapped_service": "Comprehensive Urologic Transport Service",
+        "confidence_score": 82.35
+    },
+    "Rtn Derm Transfusion Service /NG-2088": {
+        "mapped_service": "Routine Dermatologic Transfusion Service",
+        "confidence_score": 82.35
+    },
+    "Std Geriatric Nutritional Support": {
+        "mapped_service": "Standard Geriatric Nutritional Support",
+        "confidence_score": 92.96
+    },
+    "Fraction Inpatient Ren Radiother": {
+        "mapped_service": "Inpatient Renal Radiotherapy Fraction",
+        "confidence_score": 92.75
+    },
+    "Ambulatory - Immun Endosc Proc /NG-1182": {
+        "mapped_service": "Ambulatory Immunologic Endoscopic Procedure",
+        "confidence_score": 76.71
+    },
+    "Rtn  - Derm Transf Svc": {
+        "mapped_service": "Routine Dermatologic Transfusion Service",
+        "confidence_score": 62.3
+    },
+    "Standard Paed Biop Proc /NG-2120": {
+        "mapped_service": "Standard Paediatric Biopsy Procedure",
+        "confidence_score": 77.97
+    },
+    "Asst  Pulmonary Theatre Time": {
+        "mapped_service": "Assisted Pulmonary Theatre Time",
+        "confidence_score": 93.1
+    },
+    "Cont Musculoskeletal Wound Care": {
+        "mapped_service": "Continuous Musculoskeletal Wound Care",
+        "confidence_score": 91.18
+    },
+    "Preop Ent Sterilisation Svc /NG-3994": {
+        "mapped_service": "Supervised Otolaryngologic Sterilisation Service",
+        "confidence_score": 56.0
+    },
+    "Amb Gastrointestinal Discharge Plng": {
+        "mapped_service": "Assisted Gastrointestinal Infusion Therapy",
+        "confidence_score": 59.74
+    },
+    "Advanced Metabolic Anaes Admin": {
+        "mapped_service": "Advanced Metabolic Anaesthesia Administration",
+        "confidence_score": 80.0
+    },
+    "Comprehensive Ent Thtr Time /NG-2399": {
+        "mapped_service": "Comprehensive Otolaryngologic Theatre Time",
+        "confidence_score": 72.46
+    },
+    "Inpatient Vascular Diag Imaging": {
+        "mapped_service": "Inpatient Vascular Diagnostic Imaging",
+        "confidence_score": 91.18
+    },
+    "Cont Obst Rehab Prog": {
+        "mapped_service": "Continuous Obstetric Rehabilitation Programme",
+        "confidence_score": 61.54
+    },
+    "Adv Infect Critical Cr Occ /NG-1530": {
+        "mapped_service": "Advanced Infectious Critical Care Occupancy",
+        "confidence_score": 75.36
+    },
+    "Inpatient Endo Dial Sess": {
+        "mapped_service": "Inpatient Endocrine Dialysis Session",
+        "confidence_score": 80.0
+    },
+    "Cont Pulm Spcm Analysis": {
+        "mapped_service": "Inpatient Palliative Specimen Analysis",
+        "confidence_score": 62.3
+    },
+    "Compr Otolaryngologic Rehab /NG-4700": {
+        "mapped_service": "Comprehensive Otolaryngologic Theatre Time",
+        "confidence_score": 69.57
+    },
+    "Fract Outpatient Radiotherapy": {
+        "mapped_service": "Outpatient Metabolic Radiotherapy Fraction",
+        "confidence_score": 81.69
+    },
+    "Intermittent Neurological Nutr Supp": {
+        "mapped_service": "Intermittent Neurological Nutritional Support",
+        "confidence_score": 87.5
+    },
+    "Spclst - Ent Pharmaceutical Dispensing /NG-9066": {
+        "mapped_service": "Specialist Otolaryngologic Pharmaceutical Dispensing",
+        "confidence_score": 75.56
+    },
+    "Psych Rehab Prog Cont": {
+        "mapped_service": "Continuous Psychiatric Rehabilitation Programme",
+        "confidence_score": 61.76
+    },
+    "Sess Standard Endo Dialysis": {
+        "mapped_service": "Standard Endocrine Dialysis Session",
+        "confidence_score": 87.1
+    },
+    "Ambulatory - Card Home Vst": {
+        "mapped_service": "Ambulatory Cardiac Home Visit",
+        "confidence_score": 87.27
+    },
+    "Extended Ortho Ventilation Support": {
+        "mapped_service": "Preoperative Geriatric Ventilation Support",
+        "confidence_score": 65.79
+    },
+    "Outpatient Orthopaedic Pharm Dispensing /NG-2825": {
+        "mapped_service": "Specialist Otolaryngologic Pharmaceutical Dispensing",
+        "confidence_score": 52.75
+    },
+    "Rtn Derm Transfusion Service": {
+        "mapped_service": "Routine Dermatologic Transfusion Service",
+        "confidence_score": 82.35
+    },
+    "Supp Postoperative Ortho Nutritional": {
+        "mapped_service": "Postoperative Ophthalmic Radiotherapy Fraction",
+        "confidence_score": 60.98
+    },
+    "Occ Advanced Orthopaedic Recovery Rm /NG-2920": {
+        "mapped_service": "Advanced Cardiac Recovery Room Occupancy",
+        "confidence_score": 71.05
+    },
+    "Metabolic - Lab Pnl": {
+        "mapped_service": "Advanced Metabolic Nursing Observation",
+        "confidence_score": 45.61
+    },
+    "Adv  Renal Consultation": {
+        "mapped_service": "Advanced Neurological Consultation",
+        "confidence_score": 71.43
+    },
+    "Asst Specimen Anly": {
+        "mapped_service": "Routine Cardiac Specimen Analysis",
+        "confidence_score": 62.75
+    }
+}
