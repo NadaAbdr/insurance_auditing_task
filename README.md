@@ -28,6 +28,7 @@ insurance_auditing/
 │   ├── 01_eda_hospital_1.ipynb
 │   ├── 02_audit_hospital.ipynb
 │   └── 03_audit_hospitals.ipynb
+│   └── prompts                 # have all API prompt we use 
 │
 ├── src/                       # Core modular python scripts
 │   ├── contract_parser.py     # LLM-based contract rule extraction engine
